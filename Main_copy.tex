@@ -1,5 +1,5 @@
 % \textcite{} \parencite{} - are the tags for citation in apa-biblatex
-\documentclass[12pt]{article}
+\documentclass[12pt, draft]{article}
 \usepackage{fullpage} %for a school paper I am required to use only 1'' margins
 \usepackage[utf8]{inputenc} %encodes fonts for Russian
 \usepackage[T2A, T1]{fontenc} %also encodes for Russian
@@ -20,18 +20,20 @@
 \usepackage{indentfirst} %indents the first row of para
 \usepackage{hyperref} %references to self throughout the doc
 \usepackage{multirow} %need for tables where a row may split into multiples
+\setlength\extrarowheight{5pt} %extra space between rows
+\pretitle{\begin{center}\Large Synthesis paper \par \vspace{30pt}}
 
 \title{\textit{Interrogating Person Reference \\ as a Marker of Conversational Genres}}
 
-\author{Irina Wagner\\ \\ Synthesis paper \\ Committee: \\ Dr. Andrew Cowell (chair), \\ Dr. Barbara Fox, \\ Dr. Kira Hall}
+\author{\vspace{50pt} Irina Wagner}
 
+\postauthor{\end{tabular}\vspace{150pt} \par Committee: \\ Dr. Andrew Cowell (chair), \\ Dr. Barbara Fox, \\ Dr. Kira Hall \end{center}}
+ 
 \date{\today}
 \begin{document}
 \begin{titlingpage}
-\setlength{\droptitle}{80pt}
-
+\setlength{\droptitle}{100pt}
 \maketitle
-
 \end{titlingpage}
 \doublespacing
 \indent
@@ -81,7 +83,7 @@ In his original framework, \textcite{bakhtin1986} distinguished primary and seco
 %Dementyev
 In a recent study of contemporary speech genres in Russian, \textcite{dementyev2015} suggested to analyze speech genres with regards to diachronic and synchronic features. An ability to distinguish diachronic features of a genre would indicate sequential nature of its appearance. So for example, many of the contemporary spech genres found on the Internet today are secondary to the oral communication. So an instant messaging conversation online would be considered a secondary speech genre developed from face-to-face interaction and mediated by the means of technology. Synchronic features are precisely those features that distinguish between style and register -- existing in the same timeline as the discourse, register and style define some of its elements and help to categorize the genre of speech. The development of new speech genres is not only historically determined (especially with the secondary ones), but it also relies on such linguistic processes as borrowing, semantic shift, and axiological factors. So \textcite[p. 81-82]{dementyev2015} argued that just like words or grammatical constructions, speech genres can be borrowed across languages, that their meanings can change change due to the dissonance between the factual and implied social meaning, that the knowledge of proper use of a speech genre is much more important than the knowledge of the genre itself. All of these factors that determine development of speech genres highlight that a speech genre is a complex of structural and functional elements, combination of which creates a discourse with particular social meaning grounded in the sociopolitical history of the speech community. 
 
-\begin{table}[]
+\begin{table}[ht]
 \centering
 \caption{Parameters of speech genre according to Dementyev (2015, p. 84).}
 \label{sg-parameters}
@@ -111,28 +113,50 @@ The categorization of different speech styles into genres relevant in a particul
 
 Similar to my proposed differentiation of the speech genres, most of the previous studies tend to separate different communicative practices into narrative and non-narrative (or conversational) ones. With regards to the basis for further differentiation, authors do not seem to agree on whether structure or function of a practice is more prevalent. Nonetheless, the definitions of the practices, when provided, make it clear that they are unique and produce a particular social meaning. 
 \subsubsection{Narrative genres}
-First person narrative of the Ojibwe
-pageant storytelling
-3 stories by Valentine
-silence talks
-collaborative narrative
+In his landmark ethnography of the Western Apache, \textcite{basso1990} argued that in this speech community, there are three distinct speech events: ordinary talk, prayer, and narratives. So he suggested that Western Apache narratives could be roughly divided into four major genres (Table \ref{basso}) based on the purpose of the storytelling or on the time of the story events. To Basso, genres of a narrative differ not only in their structure, but also in their function in speech.
+\begin{table}[h]
+\centering
+\caption{Major categories of Western Apache narratives, distinguished by temporal locus of events and primary purposes for narration (Basso, 1990, p. 116).}
+\label{basso}
+\begin{tabular}{|p{2in} p{2.4in} p{1.6in}|} 
+\hline
+\textsc{Narrative Category} & \textsc{Temporal Locus of Events} & \textsc{Purposes}\\
+\textit{godiy{\c i}hgo nagoldi'e} (`myth') & \textit{godiy{\c a\c a}n\'a'} (`in the beginning') & to enlighten, to instruct\\
+\hline
+\textit{'agodzaah\'i} (`historical tale') & \textit{doo'\'an\'i\'ina} (`long ago') & to criticize, to warn, to `shoot'\\ \hline
+\textit{n\l t'\'e\'ego nagoldi'\'e} (`saga') & \textit{d\'i\'ij\c i\c igo} (`modern times') & to entertain, to engross\\ \hline
+\textit{ch'dii} (`gossip') & \textit{k'ad} (`now') & to inform, to malign\\
+\hline
+\end{tabular}
+\end{table}
+As it is seen in Table (\ref{basso}) the main structural differences between the narratives that Basso relied on are the references to time of the event. So, historical narratives, for examples, talk about the events that happened `long time ago.' In addition to this, \textcite{basso1990} noted that the references to places of the events also differ significantly in according to the function of the narrative and the time of the events. Basso in detail analyzed several historical narratives and emphasized that all of these stand out from other types of narratives by beginning and ending the telling with the mention of a place name. In his example of a young woman being scolded by a grandmother with a historical tale, the narrative starts off with ``It happened at `men stand above here and there'' and closes with the same phrase (pp. 119-120). When speaking to the young woman, Basso asked her of the significance of that tale to her, and she told him that since that story was meant to criticize her, ``it stalks [her] every day.'' (p. 123). Indeed, the place names are so significant to these narratives, that they are known by place names rather than the main characters (something that is more common in the Anglo-American culture). Their function of criticism of social delinquencies is also unique: in fact, Basso did not name any other narrative or non-narrative speech genres that allow a speaker to openly criticize a person or a society. Considering this unique function of the narrative, one can safely conclude that the social practice of criticism in Western Apache is conducted by the means of this narrative genre.
+
+Other Western Apache narrative genres are similarly categorized based on their function and structure. Table (\ref{basso}) provides the grounds for such determination. The time markers in this table are precisely, Basso stated, the words being used in the narratives. So, it is not just they recount the events of that time, but that they serve as the markers of that genre. 
+
+Studying Severn Ojibwe discourse practices, \textcite{valentine1995} found that the abundance of discourse genres in this community is extremely hard to investigate. In particular, she complained that it is next to impossible to categorize speech into genres just looking at its linguistic features. Instead, Valentine noted, each genre is tightly connected to  social institutions, and an analysis of speech must begin with the analysis of social institutions. She did so by effectively combining methods of ethnography and discourse analysis. She noted that with storytelling, there are at least two major genres that are distinguished by the structure of a narrative and particular syntactic and lexical components in the introduction. The two basic categories are similar to those of Western Apache, a historical narrative \textit{tipaacimowinan}, events of which usually happened during the lifetime of the speaker; and legend-myths \textit{aatisoohkaanan}. Importantly, each of these basic genres appear to be more of a meta-genre, which means that the individual variations of narratives in these genre could also be grouped into categories with their own unique structural and functional characteristics.
+
+So, in her ethnography, \textcite{valentine 1995} was particularly interested in a type of \textit{tipaacimowin}, a first-person narrative. Here she found that  speakers often declare the genre they are about to reproduce, and unlike in the myth-legend type of story, they have more freedom with the use of the pronouns, with the establishment of the time frame of the story, and with the grammatical features employed in the text. Similar to Basso's (1990) findings, historical narratives in Severn Ojibwe also begin with the establishment of a temporal matrix. Unlike legend-myths that often introduced with a non-historic time frame, \textit{tipaacimowin} indicate temporal orientation of text by linking the events to the teller's memory. What remains similar between these genres, as Valentine argued, are the performative features of the storytelling as well as some minor syntactic and semantic details of text. So, with regards to storytelling discourse, Valentine was able to distinguish at least two types of genre which differ from each other by its functions and structural features. Of course, this is just one context -- the performance, -- but other similar distinctions were also noted in interaction (with the differentiation of conversation into musical performance).
+
+While Valentine readily argued for the existence of at least two major narrative genres, her arguments could actually be elaborated further. One of the most important features of the \textit{tipaacimowin} she found is the meta-narration -- the means by which the narrative is `framed' or `keyed' (p. 170). Often times, she noted, the narrative is not told for the first time, and previous, in many cases multiple `airings' of this narrative have happened previously. With this regard, I would argue, that the teller is aware of certain intertextual features that drive his choice of this story in each moment of the narration. So, while the base of the story may remain the same, it is most certain that there could be different  lexical, syntactic, and semantic features in each re-telling of the story, contributing to changing both it structure and function (hymes1989). In other words, each subsequent narration of the story may modify its genre based on the context of its telling. While still belonging to the meta-genre of \textit{tipaacimowin}, it is also  possible to further distinguish the genre into general thematic units, e.g., disaster story, heroic narrative, etc., based on the main thematic feature of narration.
+
+Another important genre often observed in Native American speech communities is the self-introducing narrative. This speech genre in many communities is not the original or historically prevalent type, and may have began with the advent of language shift and maintenance. In the context of language revitalization, self-introductions play a major educational role. In particular, they often are the first types of discourse produced by non-native learners of an indigenous language. Used primarily in language classes, self-introductions also started to seep in the official and celebratory discourse. \textcite{samuels2004} found examples of self-introductions the Apache speech communities during beauty pageants. As a common gendered practice, pageants in Native American communities are often presented as ``forums in which young women perform their identities through demonstration of their skills as culture bearers'' \parencite[p. 177]{samuels2004}. Language, being an important part of the Native American identity, is often included in this competition either in forms of self-introductions or traditional storytelling. However, as Samuels mentioned, because of the overwhelming language shift in many communities across North America, few young women can demonstrate language proficiency. Instead, they resort to scripted talk, the \textit{pageant storytelling}, a speech genre characterized by memorization of a narrative or a self-introduction, proper pronunciation, and inability to modify it or re-create it. Samuels also emphasized that there are only traditional stories that are chosen for such performances as they best display the connection of the contestant to the traditional culture. Considering that the pageant contestants are allowed to use different means and modalities for the demonstration of the knowledge of their traditional culture, some choose to incorporate Plains Sign Talk (PST) as one of such modalities. So PST can accompany these story tellings, or even songs. Pageant storytelling, then, can be identified as a performative speech genre used to display the knowledge of a traditional language, rather than demonstrate the ability to speak. Using either traditional stories or self-introductions, the pageant contestants render the rigid structure of a narrative and often accompany it with PST for further emphasis of the traditional knowledge.
+
+Collaborative narratives are the type of a conversational story telling that includes more than one speaker. Similar to other narrative genres, collaborative narrative can be distinguished from other types of storytelling by its structure and function. Unlike other narratives, the collaborative one presents itself with a conversational structure: the first utterance of a speaker, introducing the place or the event acts as a call for another person to jump in and contribute. In his study of collaborative conversations among the Northern Arapaho, Andrew Cowell (personal communications) found that certain lexical units, such as `maybe,' act as a marker of a collaborative narrative inviting the second speaker to work on the narrative together. Such narrative can be about the events that have happened in the past or the imaginative events. In either case, speakers engage in a collaborative narrative for the purposes of establishing solidarity and entertainment. 
+
+In this section, I wanted to provide some examples of the speech genres of narratives found in different speech communities across North America. Needless to say, this is only a short list that demonstrates the value of genre categorization and the basis for such a distinction. There is no doubt that other genres of narratives exist in these or other communities, differing in their structure or functions. From the analytical point of view, such a distinction of narratives in genre helps in the analysis of a performance in establishing the ground rules for particular types of storytelling. Rejection of genre rules can be indicative of the necessity to address different social needs, or create a new function of a narrative. In other words, genre categorization is especially useful for the understanding of the social functions of a narrative and its meaning in the sociopolitical discourse. Another important observation rising from these examples is regarding the cross-cultural variation. Although I included examples from geographically neighboring communities, it is obvious that some structural and functional variations between narrative genres exist. If we were to compare these narrative genres to what is more familiar to us in the Euro-American culture of the English-speaking world, we would not be able to distinguish exactly same genres. In fact, I would argue that some of these genres are so unique that exist only in these speech communities. For example, there is no equivalent of pageant storytelling in English-speaking cultures due to the fact that English is not undergoing language shift and there is no fear of losing the traditional English storytelling. On the contrary, however, a performative narrative in English that is learned and reproduced from memory may exist in a non-English speaking community to increase the linguistic capital of a contestant and demonstrate a transnational identity \parencite[cf.]{billings2009}. 
 \subsubsection{Non-narrative genres}
+With respect to non-narrative speech genres, several of them were analyzed with respect to the same Native American speech communities. 
 inagodn
 yati nlke
 song re-interpretations
 particular jokes?
 %but also: greetings, introductions, acknowledgments; requests, complaints, pride expressions,
 
-%Valentine
-In her ethnography of communicative practices among Severn Ojibwe, \textcite{valentine1995} found that the abundance of discourse genres in this community is extremely hard to investigate. In particular, she complained that it is next to impossible to categorize speech into genres just looking at its linguistic features. Instead, Valentine noted, each genre is tightly connected to  social institutions, and an analysis of speech must begin with the analysis of social institutions. She did so by effectively combining methods of ethnography and discourse analysis. She noted that with storytelling, there are at least three common genres that are distinguished by the structure of a narrative and particular syntactic and lexical componenents in the introduction. In her analysis of a first-person narrative, she found that the speaker often declares the genre they are about to reproduce, and unlike in the myth-legend type of story, they have more freedom with the use of the pronouns, with the establishment of the timeframe of the story, and with the grammatical features employed in the text. What remains similar between these genres, as Valentine argued, are the performative features of the storytelling as well as some minor syntactic and semantic details of text. So, with regards to storytelling discourse, Valentine was able to distinguish at least three types of genre which differ from each other by its functions and structural features. Of course, this is just one context -- the performance, -- but other similar distinctions were also noted in interaction (with the differentiation of conversation into musical performance).
-
-The discovery of different genres in the Severn Ojibwe community also posed some analytcal problems. Valentine's dissatisfaction with the genre are in part due to the high variations in her data as well as the multiple approaches available to its analysis. Recognizing that not all of the speech in her data are conversations or narratives, Valentine used different frameworks of analysis and have found it impossible to use either just CA, just ethnopoetics, or just discourse analysis to get to the bottom of the linguistic variation in the discourse. Indeed, it is merely impossible to apply CA to analyze narrative, and one cannot rely on ethnopoetics in the analysis of interaction. However, more than twenty years later, genre studies seem more approachable today at least with the availability of sociocultural linguistics \parencite{bucholtz2008}, which will be discussed in the final section of this paper.
-
 B.	This research fills the gap of using the approach of genres in conversation analysis to connect it with the linguistic variation in the discourse and creation and support of important social themes/discourses.
 
 
 \subsection{Continuum of Speech Genres}
-Connecting the previous discussion of the speech genres and genre theory, here I would like to propose my idea of spoken genre continuum. In developing this, I am 
+As it has already been argued, discourse modes differ from the genre based on the categorization of an activity, \textit{narration, description, or argument}. Meanwhile, the genre differentiate the structure and social functions of talk. So while `ordinary talk' could be argued to be structurally organized in a different manner than `narratives,' we can also find different variations in conversations -- specifically with regards to structure and function. Indeed, a social function of a conversation varies in its every instance.Connecting the previous discussion of the speech genres and genre theory, here I would like to propose my idea of spoken genre continuum. In developing this, I am 
 1.	Definition of CG.
 
 2.	Possibility of employing a nested categorization: structure on one end/level --> function on another level.
@@ -244,7 +268,7 @@ From purely CA standpoint, \textcite{bolden2012} noted that problematic referenc
 \section{Person Reference as an index of Conversational Genre}
 The importance of organizational changes is two fold for the current research: on the one hand, such repairs indicate problems with some sort of comprehension of the utterance, while on the other hand they also renegotiate the type of talk speakers are engaged in. By marking the addressee's response inadequate, the speaker may take longer turns in order to achieve adequate response changing the genre of the discourse.
 %proposition of a list of different genres \& their referential features.
-
+%The discovery of different genres in the Severn Ojibwe community also posed some analytcal problems. Valentine's dissatisfaction with the genre are in part due to the high variations in her data as well as the multiple approaches available to its analysis. Recognizing that not all of the speech in her data are conversations or narratives, Valentine used different frameworks of analysis and have found it impossible to use either just CA, just ethnopoetics, or just discourse analysis to get to the bottom of the linguistic variation in the discourse. Indeed, it is merely impossible to apply CA to analyze narrative, and one cannot rely on ethnopoetics in the analysis of interaction. However, more than twenty years later, genre studies seem more approachable today at least with the availability of sociocultural linguistics \parencite{bucholtz2008}, which will be discussed in the final section of this paper.
 \section{Conclusion}
 
 \printbibliography

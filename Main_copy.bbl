@@ -108,6 +108,36 @@
       \field{year}{1986}
       \field{dateera}{ce}
     \endentry
+    \entry{basso1990}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=fcf6bcdc0b6a495b1736293d1f7d80e3}{%
+           family={Basso},
+           familyi={B\bibinitperiod},
+           given={Keith\bibnamedelima H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tucson, AZ}%
+      }
+      \list{publisher}{1}{%
+        {The University of Arizona Press}%
+      }
+      \strng{namehash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \strng{fullhash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \strng{authornamehash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \strng{authorfullhash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-8165-1094-6 978-0-8165-1094-8}
+      \field{langid}{english}
+      \field{title}{Western {{Apache}} Language and Culture: {{Essays}} in Linguistic Anthropology}
+      \field{year}{1990}
+      \field{dateera}{ce}
+    \endentry
     \entry{bax2011}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=086d99b19a2509ed052f5531cadf4609}{%
@@ -342,41 +372,6 @@
       \field{dateera}{ce}
       \field{pages}{172\bibrangedash 202}
       \range{pages}{31}
-    \endentry
-    \entry{bucholtz2008}{article}{}
-      \name{author}{2}{}{%
-        {{uniquename=0,hash=03b75ee9973d83b99ec4c5b232ace62e}{%
-           family={Bucholtz},
-           familyi={B\bibinitperiod},
-           given={Mary},
-           giveni={M\bibinitperiod}}}%
-        {{uniquename=0,hash=4eb345d790f80f610e97e0aeef0bacda}{%
-           family={Hall},
-           familyi={H\bibinitperiod},
-           given={Kira},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{3ff8495226f0e2482374d1f88a6a45cb}
-      \strng{fullhash}{3ff8495226f0e2482374d1f88a6a45cb}
-      \strng{authornamehash}{3ff8495226f0e2482374d1f88a6a45cb}
-      \strng{authorfullhash}{3ff8495226f0e2482374d1f88a6a45cb}
-      \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Sociolinguistics}
-      \field{number}{4}
-      \field{title}{All of the above: New Coalitions in Sociocultural Linguistics}
-      \field{volume}{12}
-      \field{year}{2008}
-      \field{dateera}{ce}
-      \field{pages}{401\bibrangedash 431}
-      \range{pages}{31}
-      \verb{file}
-      \verb Bucholtz and Hall - 2008 - All of the above new coalitions in sociocultural .pdf:/Users/irinawagner/Google Drive/Zotero/Bucholtz and Hall - 2008 - All of the above new coalitions in sociocultural .pdf:application/pdf
-      \endverb
     \endentry
     \entry{cameron2014}{incollection}{}
       \name{author}{2}{}{%
@@ -1284,6 +1279,36 @@
       \field{pages}{23\bibrangedash 28}
       \range{pages}{6}
     \endentry
+    \entry{samuels2004}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1fc04bd05b7a9ebbd4db274a46f15d9d}{%
+           family={Samuels},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tucson}%
+      }
+      \list{publisher}{1}{%
+        {University of Arizona Press}%
+      }
+      \strng{namehash}{1fc04bd05b7a9ebbd4db274a46f15d9d}
+      \strng{fullhash}{1fc04bd05b7a9ebbd4db274a46f15d9d}
+      \strng{authornamehash}{1fc04bd05b7a9ebbd4db274a46f15d9d}
+      \strng{authorfullhash}{1fc04bd05b7a9ebbd4db274a46f15d9d}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-8165-2601-7 0-8165-2601-X}
+      \field{langid}{english}
+      \field{title}{Putting a Song on Top of It: {{Expression}} and Identity on the {{San Carlos Apache Reservation}}.}
+      \field{year}{2004}
+      \field{dateera}{ce}
+    \endentry
     \entry{schegloff1996b}{incollection}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=599ca686b4e3588b741660375b780d74}{%
@@ -1608,7 +1633,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{The {{Handbook}} of {{Narrative Analysis}}}
+      \field{booktitle}{The Handbook of Narrative Analysis}
       \field{title}{Narratives across Speech Events}
       \field{year}{2015}
       \field{dateera}{ce}
@@ -1616,6 +1641,8 @@
       \range{pages}{18}
     \endentry
   \endsortlist
+  \missing{valentine 1995}
+  \missing{billings2009}
   \missing{bakhtin1984}
 \endrefsection
 \endinput
