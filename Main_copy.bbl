@@ -64,10 +64,10 @@
     \endentry
     \entry{bakhtin1986}{book}{}
       \name{author}{4}{}{%
-        {{uniquename=0,hash=8f92606749aee6ffc2386c09ce6b1d60}{%
+        {{uniquename=0,hash=2011f3de7436d22fb865a4e5e2ec60a7}{%
            family={Bakhtin},
            familyi={B\bibinitperiod},
-           given={M.\bibnamedelimi M.},
+           given={Mikhail\bibnamedelima M.},
            giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
         {{uniquename=0,hash=7a915b56ad444ed936ada0e86eabf5eb}{%
            family={Holquist},
@@ -91,10 +91,10 @@
       \list{publisher}{1}{%
         {University of Texas Press}%
       }
-      \strng{namehash}{696af28d278e78e9c2957696e95536ca}
-      \strng{fullhash}{45ead4c5b886d8627e526c52298881b8}
-      \strng{authornamehash}{696af28d278e78e9c2957696e95536ca}
-      \strng{authorfullhash}{45ead4c5b886d8627e526c52298881b8}
+      \strng{namehash}{e0b9a668f6f2214c0d2eb6f13c4e9d0e}
+      \strng{fullhash}{1cb612f76e33a3bb25c4d6b538af0700}
+      \strng{authornamehash}{e0b9a668f6f2214c0d2eb6f13c4e9d0e}
+      \strng{authorfullhash}{1cb612f76e33a3bb25c4d6b538af0700}
       \field{sortinit}{B}
       \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
       \field{labeldatesource}{}
@@ -129,7 +129,6 @@
       \field{sortinit}{B}
       \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{0-8165-1094-6 978-0-8165-1094-8}
@@ -137,6 +136,36 @@
       \field{title}{Western {{Apache}} Language and Culture: {{Essays}} in Linguistic Anthropology}
       \field{year}{1990}
       \field{dateera}{ce}
+    \endentry
+    \entry{basso1996}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=fcf6bcdc0b6a495b1736293d1f7d80e3}{%
+           family={Basso},
+           familyi={B\bibinitperiod},
+           given={Keith\bibnamedelima H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Albuquerque}%
+      }
+      \list{publisher}{1}{%
+        {University of New Mexico Press}%
+      }
+      \strng{namehash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \strng{fullhash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \strng{authornamehash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \strng{authorfullhash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wisdom Sits in Places: {{Landscape}} and Language among the {{Western Apache}}}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Basso - 1996 - Wisdom sits in places Landscape and language amon.pdf:/Users/irinawagner/Google Drive/Zotero/Basso - 1996 - Wisdom sits in places Landscape and language amon.pdf:application/pdf
+      \endverb
     \endentry
     \entry{bax2011}{book}{}
       \name{author}{1}{}{%
@@ -210,6 +239,35 @@
       \field{dateera}{ce}
       \field{pages}{191\bibrangedash 208}
       \range{pages}{18}
+    \endentry
+    \entry{billings2009}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=581bd7ad5c0a4074bc5f34a2b9f62f2b}{%
+           family={Billings},
+           familyi={B\bibinitperiod},
+           given={Sabrina},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{581bd7ad5c0a4074bc5f34a2b9f62f2b}
+      \strng{fullhash}{581bd7ad5c0a4074bc5f34a2b9f62f2b}
+      \strng{authornamehash}{581bd7ad5c0a4074bc5f34a2b9f62f2b}
+      \strng{authorfullhash}{581bd7ad5c0a4074bc5f34a2b9f62f2b}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language in Society}
+      \field{title}{Billings - 2009 - {{Speaking}} Beauties {{Linguistic}} Posturing, Language Inequality, and the Construction of a {{Tanzanian}} Beauty Queen.Pdf}
+      \field{volume}{38}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{581\bibrangedash 606}
+      \range{pages}{26}
+      \verb{file}
+      \verb Billings - 2009 - Speaking beauties Linguistic posturing, language inequality, and the construction of a Tanzanian beauty queen.pdf:/Users/irinawagner/Google Drive/Zotero/Billings - 2009 - Speaking beauties Linguistic posturing, language inequality, and the construction of a Tanzanian beauty queen.pdf:application/pdf
+      \endverb
     \endentry
     \entry{blythe2009}{thesis}{}
       \name{author}{1}{}{%
@@ -1641,9 +1699,6 @@
       \range{pages}{18}
     \endentry
   \endsortlist
-  \missing{valentine 1995}
-  \missing{billings2009}
-  \missing{bakhtin1984}
 \endrefsection
 \endinput
 
