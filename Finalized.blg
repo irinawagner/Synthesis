@@ -1,0 +1,25 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'Finalized.blg'
+[54] biber-darwin:303> INFO - === Tue Apr 18, 2017, 18:23:55
+[82] Biber.pm:359> INFO - Reading 'Finalized.bcf'
+[201] Biber.pm:835> INFO - Found 46 citekeys in bib section 0
+[217] Biber.pm:3670> INFO - Processing section 0
+[235] Biber.pm:3840> INFO - Looking for bibtex format file 'Synthesis.bib' for section 0
+[277] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[349] bibtex.pm:1292> INFO - Found BibTeX data source 'Synthesis.bib'
+[456] Utils.pm:164> WARN - ISBN '0-8122-7675-2 978-0-8122-7675-6 0-8122-1065-4 978-0-8122-1065-1' in entry 'hymes1974' is invalid - run biber with '--validate_datamodel' for details.
+[459] Utils.pm:164> WARN - ISBN '0-292-72046-7 978-0-292-72046-6 0-292-77560-1 978-0-292-77560-2' in entry 'bakhtin1986' is invalid - run biber with '--validate_datamodel' for details.
+[464] Utils.pm:164> WARN - ISBN '0-8165-1094-6 978-0-8165-1094-8' in entry 'basso1990' is invalid - run biber with '--validate_datamodel' for details.
+[466] Utils.pm:164> WARN - ISBN '978-0-8165-2601-7 0-8165-2601-X' in entry 'samuels2004' is invalid - run biber with '--validate_datamodel' for details.
+[469] Utils.pm:164> WARN - ISBN '0-8020-7596-7 978-0-8020-7596-3' in entry 'valentine1995' is invalid - run biber with '--validate_datamodel' for details.
+[474] Utils.pm:164> WARN - ISBN '0-521-32869-1 978-0-521-32869-2 0-521-33813-1 978-0-521-33813-4' in entry 'swales1990' is invalid - run biber with '--validate_datamodel' for details.
+[490] Utils.pm:164> WARN - ISBN '978-0-230-21796-6 0-230-21796-6 978-0-230-21797-3 0-230-21797-4' in entry 'bax2011' is invalid - run biber with '--validate_datamodel' for details.
+[495] Utils.pm:164> WARN - ISBN '1-55619-981-3 978-1-55619-981-3 90-272-3710-7 978-90-272-3710-1' in entry 'norrick2000' is invalid - run biber with '--validate_datamodel' for details.
+[544] Utils.pm:164> WARN - I didn't find a database entry for 'searle2011' (section 0)
+[631] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[631] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[631] Biber.pm:3499> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'en-US'
+[631] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[681] bbl.pm:608> INFO - Writing 'Finalized.bbl' with encoding 'UTF-8'
+[690] bbl.pm:712> INFO - Output to Finalized.bbl
+[690] Biber.pm:109> INFO - WARNINGS: 9

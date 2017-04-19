@@ -431,45 +431,6 @@
       \field{pages}{172\bibrangedash 202}
       \range{pages}{31}
     \endentry
-    \entry{cameron2014}{incollection}{}
-      \name{author}{2}{}{%
-        {{uniquename=0,hash=c2a12aa2169771abc56d6f3fcb83c871}{%
-           family={Cameron},
-           familyi={C\bibinitperiod},
-           given={Deborah},
-           giveni={D\bibinitperiod}}}%
-        {{uniquename=0,hash=2b0ac54fb27e9fa0deeeacdacff119ea}{%
-           family={Panović},
-           familyi={P\bibinitperiod},
-           given={Ivan},
-           giveni={I\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Los Angeles}%
-      }
-      \list{publisher}{1}{%
-        {SAGE Publications}%
-      }
-      \strng{namehash}{51879dc4cd09ab64b1947f275c1b6669}
-      \strng{fullhash}{51879dc4cd09ab64b1947f275c1b6669}
-      \strng{authornamehash}{51879dc4cd09ab64b1947f275c1b6669}
-      \strng{authorfullhash}{51879dc4cd09ab64b1947f275c1b6669}
-      \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Working with Written Discourse}
-      \field{title}{Discourse and Discourse Analysis}
-      \field{year}{2014}
-      \field{dateera}{ce}
-      \field{pages}{3\bibrangedash 14}
-      \range{pages}{12}
-      \verb{file}
-      \verb Cameron and Panović - 2014 - Discourse and discourse analysis:/Users/irinawagner/Google Drive/Zotero/Cameron and Panović - 2014 - Discourse and discourse analysis:application/pdf
-      \endverb
-    \endentry
     \entry{chafe1976}{inproceedings}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=db8605e74358c0b54648062204c5f777}{%
@@ -622,6 +583,64 @@
       \range{pages}{30}
       \verb{file}
       \verb Dyementyev - 2015 - Teorija rechevykh zhanrov i aktualnye protsessy so:/Users/irinawagner/Google Drive/Zotero/Dyementyev - 2015 - Teorija rechevykh zhanrov i aktualnye protsessy so:application/pdf
+      \endverb
+    \endentry
+    \entry{dingemanse2014}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=815d7bda0b28dac7e48c3db62091724c}{%
+           family={Dingemanse},
+           familyi={D\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=3f3f914f23f4379d9ecbfc263173526e}{%
+           family={Floyd},
+           familyi={F\bibinitperiod},
+           given={Simeon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=ced89b50082290b805300a11d20c3ead}{%
+           family={Enfield},
+           familyi={E\bibinitperiod},
+           given={Nicholas\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b33a7693ef476633f03a7fa8e9f8f648}{%
+           family={Kockelman},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3187609e2e46793a20822f781cbe05bf}{%
+           family={Sidnell},
+           familyi={S\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b57d3d93b6586bb832975674f81021c5}
+      \strng{fullhash}{b57d3d93b6586bb832975674f81021c5}
+      \strng{authornamehash}{b57d3d93b6586bb832975674f81021c5}
+      \strng{authorfullhash}{b57d3d93b6586bb832975674f81021c5}
+      \strng{editornamehash}{fcd686793d1c446aee40bf2158ded74b}
+      \strng{editorfullhash}{632ad2d1cbe0c451cd23d7c118130cc3}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{Cambridge}} Handbook on Linguistic Anthropology}
+      \field{title}{Conversation across Cultures}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{447\bibrangedash 480}
+      \range{pages}{34}
+      \verb{file}
+      \verb Dingemanse and Floyd - 2014 - Conversation across cultures.pdf:/Users/irinawagner/Google Drive/Zotero/Dingemanse and Floyd - 2014 - Conversation across cultures.pdf:application/pdf
       \endverb
     \endentry
     \entry{downing1996}{incollection}{}
@@ -782,54 +801,6 @@
       \range{pages}{29}
       \verb{file}
       \verb Georgakopoulou_Goutsos_2000_Mapping the world of discourse.pdf:/Users/irinawagner/Google Drive/Zotero/Georgakopoulou_Goutsos_2000_Mapping the world of discourse.pdf:application/pdf
-      \endverb
-    \endentry
-    \entry{goodwin2005}{incollection}{}
-      \name{author}{2}{}{%
-        {{uniquename=1,hash=ddd3acbf8201f1b0324e16ffb16d828e}{%
-           family={Goodwin},
-           familyi={G\bibinitperiod},
-           given={Charles},
-           giveni={C\bibinitperiod}}}%
-        {{uniquename=1,hash=0855428b987ded2613c7ca071811dfa5}{%
-           family={Goodwin},
-           familyi={G\bibinitperiod},
-           given={Marjorie\bibnamedelima Harness},
-           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=8ae9155b86ea0951380335fccf4a6046}{%
-           family={Duranti},
-           familyi={D\bibinitperiod},
-           given={Alessandro},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Malden, MA}%
-      }
-      \list{publisher}{1}{%
-        {Blackwell Publishing}%
-      }
-      \strng{namehash}{a39e42c4f5895ed56b3138f784fef540}
-      \strng{fullhash}{a39e42c4f5895ed56b3138f784fef540}
-      \strng{authornamehash}{a39e42c4f5895ed56b3138f784fef540}
-      \strng{authorfullhash}{a39e42c4f5895ed56b3138f784fef540}
-      \strng{editornamehash}{8ae9155b86ea0951380335fccf4a6046}
-      \strng{editorfullhash}{8ae9155b86ea0951380335fccf4a6046}
-      \field{sortinit}{G}
-      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{A {{Companion}} to {{Linguistic Anthropology}}}
-      \field{title}{Participation}
-      \field{year}{2005}
-      \field{dateera}{ce}
-      \field{pages}{222\bibrangedash 244}
-      \range{pages}{23}
-      \verb{file}
-      \verb Goodwin_Goodwin_2005_Participation.pdf:/Users/irinawagner/Google Drive/Zotero/Goodwin_Goodwin_2005_Participation.pdf:application/pdf
       \endverb
     \endentry
     \entry{hacohen2006}{article}{}
@@ -1299,6 +1270,39 @@
       \field{dateera}{ce}
       \field{pages}{103\bibrangedash 130}
       \range{pages}{28}
+    \endentry
+    \entry{moerman1988}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=06f1219c339b71ce478da196ed7fcfb4}{%
+           family={Moerman},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {University of Pennsylvania Press}%
+      }
+      \strng{namehash}{06f1219c339b71ce478da196ed7fcfb4}
+      \strng{fullhash}{06f1219c339b71ce478da196ed7fcfb4}
+      \strng{authornamehash}{06f1219c339b71ce478da196ed7fcfb4}
+      \strng{authorfullhash}{06f1219c339b71ce478da196ed7fcfb4}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-56308-636-6}
+      \field{title}{Talking Culture: {{Ethnography}} and Conversation Analysis}
+      \field{year}{1988}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Moerman_1988_Talking Culture.pdf:/Users/irinawagner/Google Drive/Zotero/Moerman_1988_Talking Culture.pdf:application/pdf
+      \endverb
+      \keyw{CA,cultural approach,ethnography,thai}
     \endentry
     \entry{norrick2000}{book}{}
       \name{author}{1}{}{%

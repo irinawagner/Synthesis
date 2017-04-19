@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  18 APR 2017 13:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  18 APR 2017 18:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Main_copy.tex
-(./Main_copy.tex
+**Finalized.tex
+(./Finalized.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
@@ -1039,8 +1039,8 @@ Package biblatex Info: ... file 'russian.lbx' found.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/lbx/russian.lbx
 File: russian.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 )
-(./Main_copy.aux)
-\openout1 = `Main_copy.aux'.
+(./Finalized.aux)
+\openout1 = `Finalized.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
@@ -1068,12 +1068,12 @@ LaTeX Font Info:    ... okay on input line 33.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `Main_copy.bcf'.
+\openout4 = `Finalized.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Main_copy.bbl' found.
+Package biblatex Info: ... file 'Finalized.bbl' found.
 
-(./Main_copy.bbl
+(./Finalized.bbl
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
@@ -1137,100 +1137,105 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[1] [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 44.
+(Font)              <12> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 44.
+(Font)              <8> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 44.
+(Font)              <6> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 44.
-
-[1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11]
-Overfull \hbox (13.95508pt too wide) in paragraph at lines 90--106
+(Font)              <5> on input line 52.
+ [3] [4]
+Overfull \hbox (13.95508pt too wide) in paragraph at lines 62--78
  [][] |
  []
 
-[12] [13] [14]
-Underfull \hbox (badness 2818) in paragraph at lines 124--125
-[]|\T1/cmr/m/n/12 to en-lighten, to in-
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 133.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+[]|\T1/cmr/bx/n/12 Locally Sub-se-quent
  []
 
-
-Overfull \hbox (0.66495pt too wide) in paragraph at lines 121--131
- [][] |
- []
-
-[15] [16] [17] [18] [19] [20]
-<speaking_names.png, id=85, 737.75626pt x 338.26375pt>
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 152.
+[17] [18] <Downing.png, id=78, 697.60625pt x 225.84375pt>
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 156.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [21]
-Overfull \hbox (7.0286pt too wide) in paragraph at lines 157--158
+) [19]
+<stivers.png, id=83, 493.845pt x 190.7125pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20] [21] [22] <chart.png, id=94, 934.49126pt x 261.97874pt>
+Overfull \hbox (36.13498pt too wide) in paragraph at lines 182--183
+[][] |
+ []
+
+<levinson.png, id=95, 832.10875pt x 612.2875pt>
+Overfull \hbox (36.13498pt too wide) in paragraph at lines 188--189
+[][] |
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23] [24] [25] [26] [27] [28] [29] [30] [31] [32]
+Underfull \hbox (badness 2818) in paragraph at lines 243--244
+[]|\T1/cmr/m/n/12 to en-lighten, to in-
+ []
+
+
+Overfull \hbox (0.66495pt too wide) in paragraph at lines 240--250
+ [][] |
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[33] [34] [35] [36] [37]
+<speaking_names.png, id=145, 737.75626pt x 338.26375pt> [38] [39]
+Overfull \hbox (7.0286pt too wide) in paragraph at lines 276--277
 \T1/cmr/m/n/12 narrative gen-res, \T1/cmr/m/it/12 yati nªke' \T1/cmr/m/n/12 or 
 `throw-ing words around' and re-interpretation of songs ([][]Samuels,|
  []
 
-[22]
-Overfull \hbox (2.50606pt too wide) in paragraph at lines 163--164
+[40]
+Overfull \hbox (2.50606pt too wide) in paragraph at lines 282--283
 []\T1/cmr/m/n/12 Examples of these three non-narrative gen-res in two Na-tive A
 mer-i-can com-mu-ni-ties humbly|
  []
 
-[23] [24] [25] [26] [27]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 196.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
-[]|\T1/cmr/bx/n/12 Locally Sub-se-quent
- []
-
-[28] [29] <Downing.png, id=116, 697.60625pt x 225.84375pt> [30]
-<stivers.png, id=121, 493.845pt x 190.7125pt> [31] [32]
-<chart.png, id=128, 934.49126pt x 261.97874pt>
-Overfull \hbox (36.13498pt too wide) in paragraph at lines 245--246
-[][] |
- []
-
-<levinson.png, id=129, 832.10875pt x 612.2875pt>
-Overfull \hbox (36.13498pt too wide) in paragraph at lines 251--252
-[][] |
- []
-
-[33]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45]
-Overfull \hbox (1.12003pt too wide) in paragraph at lines 289--289
+[41] [42] [43] [44] [45]
+Overfull \hbox (1.12003pt too wide) in paragraph at lines 291--291
 [][]\T1/cmr/m/n/12 Valentine, L. P. (1995). \T1/cmr/m/it/12 Mak-ing it their ow
 n: Sev-ern Ojibwe com-mu-nica-tive prac-tices\T1/cmr/m/n/12 . Toronto:|
  []
 
 [46]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 290.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 292.
  [47]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 290.
- (./Main_copy.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 290.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 290.
-Package logreq Info: Writing requests to 'Main_copy.run.xml'.
-\openout1 = `Main_copy.run.xml'.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 292.
+ (./Finalized.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 292.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 292.
+Package logreq Info: Writing requests to 'Finalized.run.xml'.
+\openout1 = `Finalized.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17468 strings out of 493014
- 276282 string characters out of 6133351
- 782169 words of memory out of 5000000
- 20804 multiletter control sequences out of 15000+600000
+ 17474 strings out of 493014
+ 276390 string characters out of 6133351
+ 781234 words of memory out of 5000000
+ 20810 multiletter control sequences out of 15000+600000
  20600 words of font info for 44 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 42i,14n,61p,2990b,2093s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,14n,56p,2987b,1845s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></u
@@ -1247,7 +1252,7 @@ ve/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive
 6/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2016/
 texmf-dist/fonts/type1/public/cm-super/sfti1728.pfb></usr/local/texlive/2016/te
 xmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Main_copy.pdf (48 pages, 367812 bytes).
+Output written on Finalized.pdf (48 pages, 362802 bytes).
 PDF statistics:
  230 PDF objects out of 1000 (max. 8388607)
  158 compressed objects within 2 object streams
