@@ -1,0 +1,1986 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{apa/global/}
+    \entry{agha2003}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=98fa017aec0b0d072c308ae06fe74f62}{%
+           family={Agha},
+           familyi={A\bibinitperiod},
+           given={Asif},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{98fa017aec0b0d072c308ae06fe74f62}
+      \strng{fullhash}{98fa017aec0b0d072c308ae06fe74f62}
+      \strng{authornamehash}{98fa017aec0b0d072c308ae06fe74f62}
+      \strng{authorfullhash}{98fa017aec0b0d072c308ae06fe74f62}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{02715309}
+      \field{issue}{3-4}
+      \field{journaltitle}{Language \& Communication}
+      \field{langid}{english}
+      \field{title}{The Social Life of Cultural Value}
+      \field{urlday}{10}
+      \field{urlmonth}{11}
+      \field{urlyear}{2016}
+      \field{volume}{23}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{231\bibrangedash 273}
+      \range{pages}{43}
+      \verb{file}
+      \verb Agha - 2003 - The social life of cultural value.pdf:/Users/irinawagner/Google Drive/Zotero/Agha - 2003 - The social life of cultural value.pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S0271530903000120
+      \endverb
+    \endentry
+    \entry{bakhtin1986}{book}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=2011f3de7436d22fb865a4e5e2ec60a7}{%
+           family={Bakhtin},
+           familyi={B\bibinitperiod},
+           given={Mikhail\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{uniquename=0,hash=7a915b56ad444ed936ada0e86eabf5eb}{%
+           family={Holquist},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=4d2618567fde8ebf6a30573398881e84}{%
+           family={McGee},
+           familyi={M\bibinitperiod},
+           given={Vern},
+           giveni={V\bibinitperiod}}}%
+        {{uniquename=0,hash=3e83f23bd2568d42c40b00bcb654f8c0}{%
+           family={Emerson},
+           familyi={E\bibinitperiod},
+           given={Caryl},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Austin}%
+      }
+      \list{publisher}{1}{%
+        {University of Texas Press}%
+      }
+      \strng{namehash}{e0b9a668f6f2214c0d2eb6f13c4e9d0e}
+      \strng{fullhash}{1cb612f76e33a3bb25c4d6b538af0700}
+      \strng{authornamehash}{e0b9a668f6f2214c0d2eb6f13c4e9d0e}
+      \strng{authorfullhash}{1cb612f76e33a3bb25c4d6b538af0700}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{"Speech Genres and Other Late Essays presents six short works from Bakhtin's Esthetics of Creative Discourse, published in Moscow in 1979. This is the last of Bakhtin's extant manuscripts published in the Soviet Union. All but one of these essays (the one on the Bildungsroman) were written in Bakhtin's later years and thus they bear the stamp of a thinker who has accumulated a huge storehouse of factual material, to which he has devoted a lifetime of analysis, reflection, and reconsideration."--Page 4 of cover.}
+      \field{isbn}{0-292-72046-7 978-0-292-72046-6 0-292-77560-1 978-0-292-77560-2}
+      \field{langid}{Translation of: Estetika slovesnogo tvorchestva.}
+      \field{title}{Speech genres and other late essays}
+      \field{year}{1986}
+      \field{dateera}{ce}
+    \endentry
+    \entry{basso1990}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=fcf6bcdc0b6a495b1736293d1f7d80e3}{%
+           family={Basso},
+           familyi={B\bibinitperiod},
+           given={Keith\bibnamedelima H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tucson, AZ}%
+      }
+      \list{publisher}{1}{%
+        {The University of Arizona Press}%
+      }
+      \strng{namehash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \strng{fullhash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \strng{authornamehash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \strng{authorfullhash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-8165-1094-6 978-0-8165-1094-8}
+      \field{langid}{english}
+      \field{title}{Western {{Apache}} Language and Culture: {{Essays}} in Linguistic Anthropology}
+      \field{year}{1990}
+      \field{dateera}{ce}
+    \endentry
+    \entry{basso1996}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=fcf6bcdc0b6a495b1736293d1f7d80e3}{%
+           family={Basso},
+           familyi={B\bibinitperiod},
+           given={Keith\bibnamedelima H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Albuquerque}%
+      }
+      \list{publisher}{1}{%
+        {University of New Mexico Press}%
+      }
+      \strng{namehash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \strng{fullhash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \strng{authornamehash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \strng{authorfullhash}{fcf6bcdc0b6a495b1736293d1f7d80e3}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wisdom Sits in Places: {{Landscape}} and Language among the {{Western Apache}}}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Basso - 1996 - Wisdom sits in places Landscape and language amon.pdf:/Users/irinawagner/Google Drive/Zotero/Basso - 1996 - Wisdom sits in places Landscape and language amon.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{bax2011}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=086d99b19a2509ed052f5531cadf4609}{%
+           family={Bax},
+           familyi={B\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Basingstoke}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{086d99b19a2509ed052f5531cadf4609}
+      \strng{fullhash}{086d99b19a2509ed052f5531cadf4609}
+      \strng{authornamehash}{086d99b19a2509ed052f5531cadf4609}
+      \strng{authorfullhash}{086d99b19a2509ed052f5531cadf4609}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-230-21796-6 0-230-21796-6 978-0-230-21797-3 0-230-21797-4}
+      \field{langid}{english}
+      \field{series}{Perspectives on the English language}
+      \field{title}{Discourse and Genre: Analysing Language in Context}
+      \field{year}{2011}
+      \field{dateera}{ce}
+    \endentry
+    \entry{biber2012}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f646ef9768ee4e31e9af07e57bf14842}{%
+           family={Biber},
+           familyi={B\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4bd1eb405e4df3edb34e48f3741fba63}{%
+           family={Gee},
+           familyi={G\bibinitperiod},
+           given={James\bibnamedelima Paul},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=b920e9388867c731e075eca44d2f33b6}{%
+           family={Handford},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{f646ef9768ee4e31e9af07e57bf14842}
+      \strng{fullhash}{f646ef9768ee4e31e9af07e57bf14842}
+      \strng{authornamehash}{f646ef9768ee4e31e9af07e57bf14842}
+      \strng{authorfullhash}{f646ef9768ee4e31e9af07e57bf14842}
+      \strng{editornamehash}{a03601ede6969cb1f2e54c62814e6a32}
+      \strng{editorfullhash}{a03601ede6969cb1f2e54c62814e6a32}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{Routledge}} Handbook of Discourse Analysis}
+      \field{title}{Register and Discourse Analysis}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{191\bibrangedash 208}
+      \range{pages}{18}
+    \endentry
+    \entry{billings2009}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=581bd7ad5c0a4074bc5f34a2b9f62f2b}{%
+           family={Billings},
+           familyi={B\bibinitperiod},
+           given={Sabrina},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{581bd7ad5c0a4074bc5f34a2b9f62f2b}
+      \strng{fullhash}{581bd7ad5c0a4074bc5f34a2b9f62f2b}
+      \strng{authornamehash}{581bd7ad5c0a4074bc5f34a2b9f62f2b}
+      \strng{authorfullhash}{581bd7ad5c0a4074bc5f34a2b9f62f2b}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language in Society}
+      \field{title}{Billings - 2009 - {{Speaking}} Beauties {{Linguistic}} Posturing, Language Inequality, and the Construction of a {{Tanzanian}} Beauty Queen.Pdf}
+      \field{volume}{38}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{581\bibrangedash 606}
+      \range{pages}{26}
+      \verb{file}
+      \verb Billings - 2009 - Speaking beauties Linguistic posturing, language inequality, and the construction of a Tanzanian beauty queen.pdf:/Users/irinawagner/Google Drive/Zotero/Billings - 2009 - Speaking beauties Linguistic posturing, language inequality, and the construction of a Tanzanian beauty queen.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{blythe2009}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d568dd29456084f72f1f8b0253a58528}{%
+           family={Blythe},
+           familyi={B\bibinitperiod},
+           given={Joe},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Sydney}%
+      }
+      \list{location}{1}{%
+        {Department of Linguistics}%
+      }
+      \strng{namehash}{d568dd29456084f72f1f8b0253a58528}
+      \strng{fullhash}{d568dd29456084f72f1f8b0253a58528}
+      \strng{authornamehash}{d568dd29456084f72f1f8b0253a58528}
+      \strng{authorfullhash}{d568dd29456084f72f1f8b0253a58528}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Doing Referring in {{Murriny Patha}} Conversation}
+      \field{type}{{{PhD Dissertation}}}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Blythe_2009_Doing referring in Murriny Patha conversation_2.pdf:/Users/irinawagner/Google Drive/Zotero/Blythe_2009_Doing referring in Murriny Patha conversation_2.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{bolden2012}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=a6f5b94cf6b08ef3ec09be54f2265c38}{%
+           family={Bolden},
+           familyi={B\bibinitperiod},
+           given={Galina\bibnamedelima B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{uniquename=0,hash=878b4ff1d73eaf4b3aa4f49a21fee847}{%
+           family={Mandelbaum},
+           familyi={M\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=334d36219399c1908594555c9c1c8e15}{%
+           family={Wilkinson},
+           familyi={W\bibinitperiod},
+           given={Sue},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{01934b53da41916c4f83aa57cd0b6176}
+      \strng{fullhash}{27f400ef47f0d8576ad313519367e260}
+      \strng{authornamehash}{01934b53da41916c4f83aa57cd0b6176}
+      \strng{authorfullhash}{27f400ef47f0d8576ad313519367e260}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Prior conversation analytic research has demonstrated that when, following a sequence-initiating action, a response is relevantly missing (or is forthcoming but is apparently inadequate), speakers may use a range of practices for pursuing a response (or a more adequate response). These practices?such as response prompts, preference reversals, or turn extensions?treat the missing (or inadequate) response as indicative of some problem, and they may either expose or mask the response pursuit and the problem they attempt to remediate. This article extends this prior research by showing that speakers can also use repair technology?specifically, repair of an indexical reference?as a resource for pursuing a response. It demonstrates that speakers can use repair of indexicals, particularly when no uncertainty as to the referent seems possible, in order to pursue a response while obscuring some other possible source of trouble. Initiating repair on an indexical reference in transition space claims that a missing response is due to a problem of understanding or of recognizing the reference, and by repairing it, the speaker makes available another opportunity for a response without exposing recipient disinclination as the possible source of the trouble. Likewise, repairing an indexical reference in the third turn can pursue a more adequate response, while avoiding going on record as doing so, by treating the sequence-initiating turn as the source of the trouble. We show that, by ostensibly dealing with problems of reference, repairs on indexicals manage (covertly) other more interactionally charged issues, such as upcoming disagreement or misalignment between interlocutors.}
+      \field{issn}{0835-1813}
+      \field{journaltitle}{Research on Language and Social Interaction}
+      \field{number}{2}
+      \field{title}{Pursuing a Response by Repairing an Indexical Reference}
+      \field{volume}{45}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{137\bibrangedash 155}
+      \range{pages}{19}
+      \verb{file}
+      \verb Bolden et al_2012_Pursuing a response by repairing an indexical reference_2.pdf:/Users/irinawagner/Google Drive/Zotero/Bolden et al_2012_Pursuing a response by repairing an indexical reference_2.pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1080/08351813.2012.673380
+      \endverb
+    \endentry
+    \entry{briggs1992}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=3eb17705a59d6c8a5366ad1ab31e746c}{%
+           family={Briggs},
+           familyi={B\bibinitperiod},
+           given={Charles\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{uniquename=0,hash=a08115a66087af01d9d670d4e3305fbb}{%
+           family={Bauman},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc7ab1cfd2f377589bf5982d8ba96f60}
+      \strng{fullhash}{dc7ab1cfd2f377589bf5982d8ba96f60}
+      \strng{authornamehash}{dc7ab1cfd2f377589bf5982d8ba96f60}
+      \strng{authorfullhash}{dc7ab1cfd2f377589bf5982d8ba96f60}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{77zfs article addresses the relationship between discourse, textual and social order, and power by means of an examination of the concept of genre. It be-gins with a critical review of the way genre has been used in linguistic an-thropology. A distinction is delineated between approaches that take for granted the status of genre as a tool for classifying and ordering discourse and those that contend with elements of generic ambiguity and dynamism. Proceeding to outline a new approach to genre, the discussion analyzes a wide range of intertextual relations that are deployed in constituting generic links. A series of examples contrasts strategies for minimizing gaps between texts and generic precedents with strategies for maximizing such gaps. A final section points to the ways that investigating generic intertextuality can illuminate questions of ideology, political economy, and power. W hy devote an article in the Journal of Linguistic Anthropology to the subject of genre? It must be admitted from the outset that genre engenders a number of possible objections when pre-Journal ofLinguistic Anthropology 2(2):131-172.}
+      \field{issn}{1548-1395}
+      \field{journaltitle}{Anthropological Linguistics}
+      \field{number}{2}
+      \field{title}{Genre, Intertextuality, and Social Power}
+      \field{volume}{2}
+      \field{year}{1992}
+      \field{dateera}{ce}
+      \field{pages}{131\bibrangedash 172}
+      \range{pages}{42}
+      \verb{doi}
+      \verb 10.1525/jlin.1992.2.2.131
+      \endverb
+      \verb{file}
+      \verb Briggs_Bauman_1992_Genre, intertextuality, and social power.pdf:/Users/irinawagner/Google Drive/Zotero/Briggs_Bauman_1992_Genre, intertextuality, and social power.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{brown2007}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b813054095f6303db2d75a6ea9ffbbcb}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Penelope},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ced89b50082290b805300a11d20c3ead}{%
+           family={Enfield},
+           familyi={E\bibinitperiod},
+           given={Nicholas\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=169095414fa7c41f11d56377f2b2b4fd}{%
+           family={Stivers},
+           familyi={S\bibinitperiod},
+           given={Tanya},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, New York, Melbourne, Madrid, Cape Town, Singapore, Sao Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b813054095f6303db2d75a6ea9ffbbcb}
+      \strng{fullhash}{b813054095f6303db2d75a6ea9ffbbcb}
+      \strng{authornamehash}{b813054095f6303db2d75a6ea9ffbbcb}
+      \strng{authorfullhash}{b813054095f6303db2d75a6ea9ffbbcb}
+      \strng{editornamehash}{b6ed88df345d642ea58d1a10fae28da3}
+      \strng{editorfullhash}{b6ed88df345d642ea58d1a10fae28da3}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Person Reference in Interaction: {{Linguistic}}, Cultural, and Social Perspectives.}
+      \field{title}{Principles of Person Reference in {{Tzeltal}} Conversations}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{172\bibrangedash 202}
+      \range{pages}{31}
+    \endentry
+    \entry{bucholtz2008}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=03b75ee9973d83b99ec4c5b232ace62e}{%
+           family={Bucholtz},
+           familyi={B\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=4eb345d790f80f610e97e0aeef0bacda}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Kira},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \strng{fullhash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \strng{authornamehash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \strng{authorfullhash}{3ff8495226f0e2482374d1f88a6a45cb}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sociolinguistics}
+      \field{number}{4}
+      \field{title}{All of the above: New Coalitions in Sociocultural Linguistics}
+      \field{volume}{12}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{401\bibrangedash 431}
+      \range{pages}{31}
+      \verb{file}
+      \verb Bucholtz and Hall - 2008 - All of the above new coalitions in sociocultural .pdf:/Users/irinawagner/Google Drive/Zotero/Bucholtz and Hall - 2008 - All of the above new coalitions in sociocultural .pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{chafe1976}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=db8605e74358c0b54648062204c5f777}{%
+           family={Chafe},
+           familyi={C\bibinitperiod},
+           given={Wallace},
+           giveni={W\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=60fb29fa863f3b507c9dd8af42873e14}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Charles\bibnamedelima N.},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{db8605e74358c0b54648062204c5f777}
+      \strng{fullhash}{db8605e74358c0b54648062204c5f777}
+      \strng{authornamehash}{db8605e74358c0b54648062204c5f777}
+      \strng{authorfullhash}{db8605e74358c0b54648062204c5f777}
+      \strng{editornamehash}{60fb29fa863f3b507c9dd8af42873e14}
+      \strng{editorfullhash}{60fb29fa863f3b507c9dd8af42873e14}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Symposium on Subject and Topic, {{Univ}}. of {{California}} (1975)}
+      \field{title}{Givenness, Contrastiveness, Definiteness, Subjects and Topics}
+      \field{year}{1976}
+      \field{dateera}{ce}
+      \field{pages}{27\bibrangedash 55}
+      \range{pages}{29}
+      \verb{file}
+      \verb Chafe_1976_Givenness, Contrastiveness, Definiteness, Subjects and Topics.pdf:/Users/irinawagner/Google Drive/Zotero/Chafe - 1976 - Givenness, Contrastiveness, Definiteness, Subjects and Topics.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{clark1986}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=491d5e0a1c9473cd7662d5d7ef7ae5c7}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Herbert\bibnamedelima H.},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{uniquename=0,hash=be5e34ff536046bc9179361b5f1c829e}{%
+           family={Wilkes-Gibbs},
+           familyi={W\bibinithyphendelim G\bibinitperiod},
+           given={Deanna},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{22023b8f2dca0785fb9d34bd980fdc28}
+      \strng{fullhash}{22023b8f2dca0785fb9d34bd980fdc28}
+      \strng{authornamehash}{22023b8f2dca0785fb9d34bd980fdc28}
+      \strng{authorfullhash}{22023b8f2dca0785fb9d34bd980fdc28}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In conversation, speakers and addressees work together in the making of a definite reference. In the model we propose, the speaker initiates the process by presenting or inviting a noun phrase. Before going on to the next contribu- tion, the participants, if necessary, repair, expand on, or replace the noun phrase in an iterative process until they reach a version they mutually accept. In doing so they try to minimize their joint effort. The preferred procedure is for the speaker to present a simple noun phrase and for the addressee to accept it by allowing the next contribution to begin. We describe a communication task in which pairs of people conversed about arranging complex figures and show how the proposed model accounts for many features of the references they produced. The model follows, we suggest, from the mutual responsibility that participants in conversation bear toward the understanding of each utter- ance.}
+      \field{journaltitle}{Cognition}
+      \field{number}{1}
+      \field{title}{Referring as a Collaborative Process}
+      \field{volume}{22}
+      \field{year}{1986}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 39}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1016/0010-0277(86)90010-7
+      \endverb
+      \verb{file}
+      \verb Clark_Wilkes-Gibbs_1986_Referring as a collaborative process.pdf:/Users/irinawagner/Google Drive/Zotero/Clark_Wilkes-Gibbs_1986_Referring as a collaborative process.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{defornel1987}{incollection}{useprefix=true}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6dcf8fc9bf363669af951f42bf8a5aec}{%
+           family={Fornel},
+           familyi={F\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=032c630713f4d553ecbe6e9a36ff9ebb}{%
+           family={Verschueren},
+           familyi={V\bibinitperiod},
+           given={Jef},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8e40ff8abb23d2af91e28f85eaa9e126}{%
+           family={Bertucelli-Papi},
+           familyi={B\bibinithyphendelim P\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam/Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins Publishing Company}%
+      }
+      \strng{namehash}{6dcf8fc9bf363669af951f42bf8a5aec}
+      \strng{fullhash}{6dcf8fc9bf363669af951f42bf8a5aec}
+      \strng{authornamehash}{6dcf8fc9bf363669af951f42bf8a5aec}
+      \strng{authorfullhash}{6dcf8fc9bf363669af951f42bf8a5aec}
+      \strng{editornamehash}{0b32540b0766e573db2d2ecc7d1bdfba}
+      \strng{editorfullhash}{0b32540b0766e573db2d2ecc7d1bdfba}
+      \field{sortinit}{d}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{Pragmatic Perspective}}: {{Selected Papers}} from the 1985 {{International Pragmatics Conference}}}
+      \field{series}{Pragmatics \& Beyond: Companion Series}
+      \field{title}{Reference to Persons in Conversation}
+      \field{year}{1987}
+      \field{dateera}{ce}
+      \field{pages}{131\bibrangedash 140}
+      \range{pages}{10}
+    \endentry
+    \entry{dementyev2015}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c384cd9f4821927f1e3e3661d540cd44}{%
+           family={Dementyev},
+           familyi={D\bibinitperiod},
+           given={Vadim\bibnamedelima Viktorovich},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{c384cd9f4821927f1e3e3661d540cd44}
+      \strng{fullhash}{c384cd9f4821927f1e3e3661d540cd44}
+      \strng{authornamehash}{c384cd9f4821927f1e3e3661d540cd44}
+      \strng{authorfullhash}{c384cd9f4821927f1e3e3661d540cd44}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Voprosy Jazykoznanija}
+      \field{langid}{russian}
+      \field{number}{6}
+      \field{title}{Teorija rechevykh zhanrov i aktualnye protsessy sovremennoi rechi. ["Speech genre" theory and the actual processes in contemporary speaking]}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{78\bibrangedash 107}
+      \range{pages}{30}
+      \verb{file}
+      \verb Dyementyev - 2015 - Teorija rechevykh zhanrov i aktualnye protsessy so:/Users/irinawagner/Google Drive/Zotero/Dyementyev - 2015 - Teorija rechevykh zhanrov i aktualnye protsessy so:application/pdf
+      \endverb
+    \endentry
+    \entry{dingemanse2014}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=815d7bda0b28dac7e48c3db62091724c}{%
+           family={Dingemanse},
+           familyi={D\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=3f3f914f23f4379d9ecbfc263173526e}{%
+           family={Floyd},
+           familyi={F\bibinitperiod},
+           given={Simeon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=ced89b50082290b805300a11d20c3ead}{%
+           family={Enfield},
+           familyi={E\bibinitperiod},
+           given={Nicholas\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b33a7693ef476633f03a7fa8e9f8f648}{%
+           family={Kockelman},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3187609e2e46793a20822f781cbe05bf}{%
+           family={Sidnell},
+           familyi={S\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b57d3d93b6586bb832975674f81021c5}
+      \strng{fullhash}{b57d3d93b6586bb832975674f81021c5}
+      \strng{authornamehash}{b57d3d93b6586bb832975674f81021c5}
+      \strng{authorfullhash}{b57d3d93b6586bb832975674f81021c5}
+      \strng{editornamehash}{fcd686793d1c446aee40bf2158ded74b}
+      \strng{editorfullhash}{632ad2d1cbe0c451cd23d7c118130cc3}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{Cambridge}} Handbook on Linguistic Anthropology}
+      \field{title}{Conversation across Cultures}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{447\bibrangedash 480}
+      \range{pages}{34}
+      \verb{file}
+      \verb Dingemanse and Floyd - 2014 - Conversation across cultures.pdf:/Users/irinawagner/Google Drive/Zotero/Dingemanse and Floyd - 2014 - Conversation across cultures.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{downing1996}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=58c3b73cc977049cebfa8ecb275e80e9}{%
+           family={Downing},
+           familyi={D\bibinitperiod},
+           given={Pamela\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=178879a97850fbbb562dbcee3bab7d39}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Barbara\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam; Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins Pub Co.}%
+      }
+      \strng{namehash}{58c3b73cc977049cebfa8ecb275e80e9}
+      \strng{fullhash}{58c3b73cc977049cebfa8ecb275e80e9}
+      \strng{authornamehash}{58c3b73cc977049cebfa8ecb275e80e9}
+      \strng{authorfullhash}{58c3b73cc977049cebfa8ecb275e80e9}
+      \strng{editornamehash}{178879a97850fbbb562dbcee3bab7d39}
+      \strng{editorfullhash}{178879a97850fbbb562dbcee3bab7d39}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Studies in Anaphora}
+      \field{title}{Proper Names as a Referential Option in {{English}} Conversation}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{pages}{95\bibrangedash 115}
+      \range{pages}{21}
+      \verb{file}
+      \verb Downing_1996_Proper Names as a Referential Option in English Conversation.pdf:/Users/irinawagner/Google Drive/Zotero/Downing_1996_Proper Names as a Referential Option in English Conversation_2.pdf:application/pdf;Downing_1996_Proper Names as a Referential Option in English Conversation.pdf:/Users/irinawagner/Google Drive/Zotero/Downing_1996_Proper Names as a Referential Option in English Conversation.pdf:application/pdf;Downing_1996_Proper Names as a Referential Option in English Conversation.pdf:/Users/irinawagner/Google Drive/Zotero/Downing_1996_Proper Names as a Referential Option in English Conversation.pdf:application/pdf
+      \endverb
+      \keyw{CA,Person reference}
+    \endentry
+    \entry{enfield2013a}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ced89b50082290b805300a11d20c3ead}{%
+           family={Enfield},
+           familyi={E\bibinitperiod},
+           given={Nicholas\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=3187609e2e46793a20822f781cbe05bf}{%
+           family={Sidnell},
+           familyi={S\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+        {{hash=169095414fa7c41f11d56377f2b2b4fd}{%
+           family={Stivers},
+           familyi={S\bibinitperiod},
+           given={Tanya},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chichester, UK}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons, Ltd}%
+      }
+      \strng{namehash}{ced89b50082290b805300a11d20c3ead}
+      \strng{fullhash}{ced89b50082290b805300a11d20c3ead}
+      \strng{authornamehash}{ced89b50082290b805300a11d20c3ead}
+      \strng{authorfullhash}{ced89b50082290b805300a11d20c3ead}
+      \strng{editornamehash}{48bc3bf560abeae97092eb7e52003dd6}
+      \strng{editorfullhash}{48bc3bf560abeae97092eb7e52003dd6}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{Handbook}} of {{Conversation Analysis}}}
+      \field{title}{Reference in Conversation}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Enfield_2013_Reference in Conversation.pdf:/Users/irinawagner/Google Drive/Zotero/Enfield - 2013 - Reference in Conversation-annotated.pdf:application/pdf
+      \endverb
+      \keyw{CA,Exotic language,Person reference}
+    \endentry
+    \entry{fox1987}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a880e84c625b9e3d9a7313b922437d7d}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Barbara\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a880e84c625b9e3d9a7313b922437d7d}
+      \strng{fullhash}{a880e84c625b9e3d9a7313b922437d7d}
+      \strng{authornamehash}{a880e84c625b9e3d9a7313b922437d7d}
+      \strng{authorfullhash}{a880e84c625b9e3d9a7313b922437d7d}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Anaphora and the Structure of Discourse}
+      \field{title}{Anaphora in Conversational {{English}}}
+      \field{year}{1987}
+      \field{dateera}{ce}
+      \field{pages}{16\bibrangedash 75}
+      \range{pages}{60}
+      \verb{file}
+      \verb Fox_1987_Anaphora in Conversational English.pdf:/Users/irinawagner/Google Drive/Zotero/Fox_1987_Anaphora in Conversational English.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{georgakopoulou2000}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=77f697eea85a058b5fda6832b4ccbb6b}{%
+           family={Georgakopoulou},
+           familyi={G\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=11c4e40bd845f2e32998e56b9373b7f0}{%
+           family={Goutsos},
+           familyi={G\bibinitperiod},
+           given={Dionysis},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dc433e777cf453b9c0ec40a064dcaaf}
+      \strng{fullhash}{4dc433e777cf453b9c0ec40a064dcaaf}
+      \strng{authornamehash}{4dc433e777cf453b9c0ec40a064dcaaf}
+      \strng{authorfullhash}{4dc433e777cf453b9c0ec40a064dcaaf}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Semiotica}
+      \field{number}{3}
+      \field{title}{Mapping the World of Discourse: {{The}} Narrative vs. Non-Narrative Distinction}
+      \field{volume}{31}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{pages}{113\bibrangedash 141}
+      \range{pages}{29}
+      \verb{file}
+      \verb Georgakopoulou_Goutsos_2000_Mapping the world of discourse.pdf:/Users/irinawagner/Google Drive/Zotero/Georgakopoulou_Goutsos_2000_Mapping the world of discourse.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{hacohen2006}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=f46a8ff5632990687ca6e11aaa3af8bf}{%
+           family={Hacohen},
+           familyi={H\bibinitperiod},
+           given={Gonen},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=599ca686b4e3588b741660375b780d74}{%
+           family={Schegloff},
+           familyi={S\bibinitperiod},
+           given={Emanuel\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{199ec59ce42d5d306fb4d7e9ca2a7f7d}
+      \strng{fullhash}{199ec59ce42d5d306fb4d7e9ca2a7f7d}
+      \strng{authornamehash}{199ec59ce42d5d306fb4d7e9ca2a7f7d}
+      \strng{authorfullhash}{199ec59ce42d5d306fb4d7e9ca2a7f7d}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Hebrew is among the languages in which person, number and gender are inflected on the verb in past and future tenses. Although free-standing pronouns are therefore "redundant" in common-sense terms when articulated in such contexts, they do occur, and constitute departures from what conversation analysts propose to be a preference for minimization in person reference. Several exemplars are examined to show one interactional environment in which this usage occurs, and which it can be seen to mark, namely, environments of disalignment. Three upshots of this analysis are explicated. ?? 2006 Elsevier B.V. All rights reserved.}
+      \field{issn}{03782166}
+      \field{journaltitle}{Journal of Pragmatics}
+      \field{title}{On the Preference for Minimization in Referring to Persons: {{Evidence}} from {{Hebrew}} Conversation}
+      \field{volume}{38}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{1305\bibrangedash 1312}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.pragma.2006.04.004
+      \endverb
+      \verb{file}
+      \verb Hacohen_Schegloff_2006_On the preference for minimization in referring to persons.pdf:/Users/irinawagner/Google Drive/Zotero/storage/ZUNJXJSZ/Hacohen_Schegloff_2006_On the preference for minimization in referring to persons.pdf:application/pdf
+      \endverb
+      \keyw{conversation,Disalignment,Hebrew,Minimization,Person reference,Preference}
+    \endentry
+    \entry{hanks1987}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3bff56ebb8d69c612deb0b84793d4e29}{%
+           family={Hanks},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{3bff56ebb8d69c612deb0b84793d4e29}
+      \strng{fullhash}{3bff56ebb8d69c612deb0b84793d4e29}
+      \strng{authornamehash}{3bff56ebb8d69c612deb0b84793d4e29}
+      \strng{authorfullhash}{3bff56ebb8d69c612deb0b84793d4e29}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Ethnologist}
+      \field{number}{4}
+      \field{title}{Discourse Genres in a Theory of Practice}
+      \field{volume}{14}
+      \field{year}{1987}
+      \field{dateera}{ce}
+      \field{pages}{668\bibrangedash 692}
+      \range{pages}{25}
+      \verb{file}
+      \verb Hanks_1987_Discourse Genres in a Theory of Practice.pdf:/Users/irinawagner/Google Drive/Zotero/Hanks_1987_Discourse Genres in a Theory of Practice.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{hanks2007}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3bff56ebb8d69c612deb0b84793d4e29}{%
+           family={Hanks},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ced89b50082290b805300a11d20c3ead}{%
+           family={Enfield},
+           familyi={E\bibinitperiod},
+           given={Nicholas\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=169095414fa7c41f11d56377f2b2b4fd}{%
+           family={Stivers},
+           familyi={S\bibinitperiod},
+           given={Tanya},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, New York, Melbourne, Madrid, Cape Town, Singapore, Sao Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{3bff56ebb8d69c612deb0b84793d4e29}
+      \strng{fullhash}{3bff56ebb8d69c612deb0b84793d4e29}
+      \strng{authornamehash}{3bff56ebb8d69c612deb0b84793d4e29}
+      \strng{authorfullhash}{3bff56ebb8d69c612deb0b84793d4e29}
+      \strng{editornamehash}{b6ed88df345d642ea58d1a10fae28da3}
+      \strng{editorfullhash}{b6ed88df345d642ea58d1a10fae28da3}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Person Reference in Interaction: {{Linguistic}}, Cultural and Social Perspectives}
+      \field{title}{Person Reference in {{Yucatec Maya}} Conversation}
+      \field{year}{2007}
+      \field{dateera}{ce}
+    \endentry
+    \entry{harkness2015}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=587e89fae6ab63ff9b012b5078de6e24}{%
+           family={Harkness},
+           familyi={H\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{587e89fae6ab63ff9b012b5078de6e24}
+      \strng{fullhash}{587e89fae6ab63ff9b012b5078de6e24}
+      \strng{authornamehash}{587e89fae6ab63ff9b012b5078de6e24}
+      \strng{authorfullhash}{587e89fae6ab63ff9b012b5078de6e24}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Anthropological Quarterly}
+      \field{number}{2}
+      \field{title}{Basic Knship Terms: {{Christian}} Relations, Chronotopic Formulations, and a {{Korean}} Confrontation of Language}
+      \field{volume}{88}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{305\bibrangedash 336}
+      \range{pages}{32}
+      \verb{file}
+      \verb Harkness_2015_Basic knship terms.pdf:/Users/irinawagner/Google Drive/Zotero/Harkness_2015_Basic knship terms.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{haviland2007}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=84e34def49e86422c91bd67e2b023110}{%
+           family={Haviland},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ced89b50082290b805300a11d20c3ead}{%
+           family={Enfield},
+           familyi={E\bibinitperiod},
+           given={Nicholas\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=169095414fa7c41f11d56377f2b2b4fd}{%
+           family={Stivers},
+           familyi={S\bibinitperiod},
+           given={Tanya},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, New York, Melbourne, Madrid, Cape Town, Singapore, Sao Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{84e34def49e86422c91bd67e2b023110}
+      \strng{fullhash}{84e34def49e86422c91bd67e2b023110}
+      \strng{authornamehash}{84e34def49e86422c91bd67e2b023110}
+      \strng{authorfullhash}{84e34def49e86422c91bd67e2b023110}
+      \strng{editornamehash}{b6ed88df345d642ea58d1a10fae28da3}
+      \strng{editorfullhash}{b6ed88df345d642ea58d1a10fae28da3}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Person Reference in Interaction: {{Linguistic}}, Cultural, and Social Perspectives}
+      \field{title}{Person Reference in {{Tzotzil}} Gossip: {{Referring}} Dupliciter}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{226\bibrangedash 252}
+      \range{pages}{27}
+    \endentry
+    \entry{hymes1974}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=40891b1301e99bc2559c1853f3f8f36f}{%
+           family={Hymes},
+           familyi={H\bibinitperiod},
+           given={Dell\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {University of Pennsylvania Press}%
+      }
+      \strng{namehash}{40891b1301e99bc2559c1853f3f8f36f}
+      \strng{fullhash}{40891b1301e99bc2559c1853f3f8f36f}
+      \strng{authornamehash}{40891b1301e99bc2559c1853f3f8f36f}
+      \strng{authorfullhash}{40891b1301e99bc2559c1853f3f8f36f}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-8122-7675-2 978-0-8122-7675-6 0-8122-1065-4 978-0-8122-1065-1}
+      \field{title}{Foundations in Sociolinguistics: {{An}} Ethnographic Approach}
+      \field{year}{1974}
+      \field{dateera}{ce}
+    \endentry
+    \entry{hymes1989}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=40891b1301e99bc2559c1853f3f8f36f}{%
+           family={Hymes},
+           familyi={H\bibinitperiod},
+           given={Dell\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=a08115a66087af01d9d670d4e3305fbb}{%
+           family={Bauman},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=328e74953c62227ee8713adb4c9348af}{%
+           family={Sherzer},
+           familyi={S\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, New York, New Rochelle, Melbourne, Sydney}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{40891b1301e99bc2559c1853f3f8f36f}
+      \strng{fullhash}{40891b1301e99bc2559c1853f3f8f36f}
+      \strng{authornamehash}{40891b1301e99bc2559c1853f3f8f36f}
+      \strng{authorfullhash}{40891b1301e99bc2559c1853f3f8f36f}
+      \strng{editornamehash}{1c6c070bd9d8b906af3f64b69a237b33}
+      \strng{editorfullhash}{1c6c070bd9d8b906af3f64b69a237b33}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Explorations in the Ethnography of Speaking}
+      \field{edition}{2nd}
+      \field{title}{Ways of Speaking}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{pages}{433\bibrangedash 451}
+      \range{pages}{19}
+    \endentry
+    \entry{hyvarinen2015}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=75cc3db4f49b5f13b2063e426572b4e5}{%
+           family={Hyvärinen},
+           familyi={H\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=0f2c5f87a3170a6bba54b1f15262974f}{%
+           family={De\bibnamedelima Fina},
+           familyi={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=77f697eea85a058b5fda6832b4ccbb6b}{%
+           family={Georgakopoulou},
+           familyi={G\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Blackwell}%
+      }
+      \strng{namehash}{75cc3db4f49b5f13b2063e426572b4e5}
+      \strng{fullhash}{75cc3db4f49b5f13b2063e426572b4e5}
+      \strng{authornamehash}{75cc3db4f49b5f13b2063e426572b4e5}
+      \strng{authorfullhash}{75cc3db4f49b5f13b2063e426572b4e5}
+      \strng{editornamehash}{f81c717413cb33747aca529a234152cf}
+      \strng{editorfullhash}{f81c717413cb33747aca529a234152cf}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{Handbook}} of {{Narrative Analysis}}}
+      \field{title}{Analyzing Narrative Genres}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{178\bibrangedash 191}
+      \range{pages}{14}
+    \endentry
+    \entry{labov1967}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=5af22306b3a9a09d07b03f4b6c265c99}{%
+           family={Labov},
+           familyi={L\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{uniquename=0,hash=1208587b2e7ba1fc78f611eda6f13162}{%
+           family={Waletzky},
+           familyi={W\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=152090ff5e9a05ea7e1cf0c248449638}{%
+           family={Helm},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Seattle}%
+      }
+      \list{publisher}{1}{%
+        {University of Washington Press}%
+      }
+      \strng{namehash}{9063feb5c00e19eb23c1b6d0d78b1905}
+      \strng{fullhash}{9063feb5c00e19eb23c1b6d0d78b1905}
+      \strng{authornamehash}{9063feb5c00e19eb23c1b6d0d78b1905}
+      \strng{authorfullhash}{9063feb5c00e19eb23c1b6d0d78b1905}
+      \strng{editornamehash}{152090ff5e9a05ea7e1cf0c248449638}
+      \strng{editorfullhash}{152090ff5e9a05ea7e1cf0c248449638}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Essays on the {{Verbal}} and {{Visual Arts}}}
+      \field{title}{Narrative Analysis: {{Oral}} Versions of Personal Experience.}
+      \field{year}{1967}
+      \field{dateera}{ce}
+      \field{pages}{12\bibrangedash 44}
+      \range{pages}{33}
+    \endentry
+    \entry{lele2009}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=398860a891d617690e46fb53a772dbda}{%
+           family={Lele},
+           familyi={L\bibinitperiod},
+           given={Veerendra},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{398860a891d617690e46fb53a772dbda}
+      \strng{fullhash}{398860a891d617690e46fb53a772dbda}
+      \strng{authornamehash}{398860a891d617690e46fb53a772dbda}
+      \strng{authorfullhash}{398860a891d617690e46fb53a772dbda}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Naming systems in Gaeltacht (Irish-speaking) communities in western Ireland produce different sociolinguistic registers. I argue that the use of a person's ainm áitiúil (``local name'') establishes and enlists a generalized register of kinship and social intimacy in the Gaeltacht. Local agents of the state (``state intimates'') articulate local names with official state-recognized names, operating between the registers these names represent. The ways in which local names are used, the knowledge about persons they produce, and the social relations they represent draw together personal identity, spoken practice, and kinship values in this particular Gaeltacht community. [Ireland; Irish language; kinship; names; register]}
+      \field{issn}{1548-1395}
+      \field{journaltitle}{Journal of Linguistic Anthropology}
+      \field{number}{1}
+      \field{title}{It's Not Really a Nickname It's a Method: {{Local}} Names, State Intimates, and Kinship Register in the {{Irish Gaeltacht}}}
+      \field{volume}{19}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{40}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1111/j.1548-1395.2009.01021.x.I
+      \endverb
+      \verb{file}
+      \verb Lele_2009_It's not really a nickname it's a Method.pdf:/Users/irinawagner/Google Drive/Zotero/Lele_2009_It's not really a nickname it's a Method_2.pdf:application/pdf;Lele_2009_It's not really a nickname it's a Method.pdf:/Users/irinawagner/Google Drive/Zotero/Lele_2009_It's not really a nickname it's a Method.pdf:application/pdf
+      \endverb
+      \keyw{Irish,kinship,linguistic anthropology,naming}
+    \endentry
+    \entry{levinson2007}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=57662c093a2be4aa38c276d4e511b683}{%
+           family={Levinson},
+           familyi={L\bibinitperiod},
+           given={Stephen\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ced89b50082290b805300a11d20c3ead}{%
+           family={Enfield},
+           familyi={E\bibinitperiod},
+           given={Nicholas\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=169095414fa7c41f11d56377f2b2b4fd}{%
+           family={Stivers},
+           familyi={S\bibinitperiod},
+           given={Tanya},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, New York, Melbourne, Madrid, Cape Town, Singapore, Sao Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{57662c093a2be4aa38c276d4e511b683}
+      \strng{fullhash}{57662c093a2be4aa38c276d4e511b683}
+      \strng{authornamehash}{57662c093a2be4aa38c276d4e511b683}
+      \strng{authorfullhash}{57662c093a2be4aa38c276d4e511b683}
+      \strng{editornamehash}{b6ed88df345d642ea58d1a10fae28da3}
+      \strng{editorfullhash}{b6ed88df345d642ea58d1a10fae28da3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Person Reference in Interaction: {{Linguistic}}, Cultural and Social Perspectives}
+      \field{title}{Optimizing Person Reference - Perspectives from Usage on {{Rossel Island}}}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{29\bibrangedash 72}
+      \range{pages}{44}
+    \endentry
+    \entry{levinson2013}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=57662c093a2be4aa38c276d4e511b683}{%
+           family={Levinson},
+           familyi={L\bibinitperiod},
+           given={Stephen\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=3187609e2e46793a20822f781cbe05bf}{%
+           family={Sidnell},
+           familyi={S\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+        {{hash=169095414fa7c41f11d56377f2b2b4fd}{%
+           family={Stivers},
+           familyi={S\bibinitperiod},
+           given={Tanya},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Malden, MA}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishing Ltd}%
+      }
+      \strng{namehash}{57662c093a2be4aa38c276d4e511b683}
+      \strng{fullhash}{57662c093a2be4aa38c276d4e511b683}
+      \strng{authornamehash}{57662c093a2be4aa38c276d4e511b683}
+      \strng{authorfullhash}{57662c093a2be4aa38c276d4e511b683}
+      \strng{editornamehash}{48bc3bf560abeae97092eb7e52003dd6}
+      \strng{editorfullhash}{48bc3bf560abeae97092eb7e52003dd6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Handbook of Conversation Analysis}
+      \field{title}{Action Formation and Ascription}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{103\bibrangedash 130}
+      \range{pages}{28}
+    \endentry
+    \entry{mayes2005}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=fe92bc981f19c98a28908a93ea2d5a11}{%
+           family={Mayes},
+           familyi={M\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe92bc981f19c98a28908a93ea2d5a11}
+      \strng{fullhash}{fe92bc981f19c98a28908a93ea2d5a11}
+      \strng{authornamehash}{fe92bc981f19c98a28908a93ea2d5a11}
+      \strng{authorfullhash}{fe92bc981f19c98a28908a93ea2d5a11}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This article presents an analysis of the talk of child counsellors in interaction with young children (4–{}12 years). The data consist of recordings of counselling sessions offered to children whose parents are in the process of separation or divorce. The os- tensible aim of the servicewas to provide normalizing interventions rather than deal- ing with clinical referrals. The focus of the article is on the practice of what is known in counselling psychology as active listening. This refers to the ways in which coun- sellors seek to showresponsivity to what the child is saying. Based on analysis of nat- urally occurring child counselling talk, this article shows how the conversational practice of formulation is utilized to achieve some of the complex interactionalwork involved in active listening.}
+      \field{eprinttype}{pmid}
+      \field{issn}{0835-1813}
+      \field{journaltitle}{Research on Language and Social Interaction}
+      \field{number}{3}
+      \field{title}{Linking Micro and Macro Social Structure through Genre Analysis}
+      \field{volume}{38}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{pages}{303\bibrangedash 329}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1207/s15327973rlsi3803
+      \endverb
+      \verb{eprint}
+      \verb 3
+      \endverb
+      \verb{file}
+      \verb Mayes_2005_Linking Micro and Macro Social Structure Through Genre Analysis.pdf:/Users/irinawagner/Google Drive/Zotero/Mayes_2005_Linking Micro and Macro Social Structure Through Genre Analysis.pdf:application/pdf
+      \endverb
+      \keyw{genre,interaction,micro and macro structures,social action}
+    \endentry
+    \entry{moerman1988}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=06f1219c339b71ce478da196ed7fcfb4}{%
+           family={Moerman},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {University of Pennsylvania Press}%
+      }
+      \strng{namehash}{06f1219c339b71ce478da196ed7fcfb4}
+      \strng{fullhash}{06f1219c339b71ce478da196ed7fcfb4}
+      \strng{authornamehash}{06f1219c339b71ce478da196ed7fcfb4}
+      \strng{authorfullhash}{06f1219c339b71ce478da196ed7fcfb4}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-56308-636-6}
+      \field{title}{Talking Culture: {{Ethnography}} and Conversation Analysis}
+      \field{year}{1988}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Moerman_1988_Talking Culture.pdf:/Users/irinawagner/Google Drive/Zotero/Moerman_1988_Talking Culture.pdf:application/pdf
+      \endverb
+      \keyw{CA,cultural approach,ethnography,thai}
+    \endentry
+    \entry{norrick2000}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=fdc18609df541ded6fc135c9eb0c0fa1}{%
+           family={Norrick},
+           familyi={N\bibinitperiod},
+           given={Neal\bibnamedelima R.},
+           giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam [etc.]}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{fdc18609df541ded6fc135c9eb0c0fa1}
+      \strng{fullhash}{fdc18609df541ded6fc135c9eb0c0fa1}
+      \strng{authornamehash}{fdc18609df541ded6fc135c9eb0c0fa1}
+      \strng{authorfullhash}{fdc18609df541ded6fc135c9eb0c0fa1}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1-55619-981-3 978-1-55619-981-3 90-272-3710-7 978-90-272-3710-1}
+      \field{langid}{english}
+      \field{title}{Conversational Narrative: Storytelling in Everyday Talk}
+      \field{year}{2000}
+      \field{dateera}{ce}
+    \endentry
+    \entry{ochs2001}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=35cd9e27f10743fcc9e5349de803578d}{%
+           family={Ochs},
+           familyi={O\bibinitperiod},
+           given={Elinor},
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=cebb9d717d4c0655264532fefb3d93d4}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Carlyn},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=8ae9155b86ea0951380335fccf4a6046}{%
+           family={Duranti},
+           familyi={D\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Malden, MA}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishers}%
+      }
+      \strng{namehash}{f3eae5d81d2c0d90e986b9728b73e541}
+      \strng{fullhash}{f3eae5d81d2c0d90e986b9728b73e541}
+      \strng{authornamehash}{f3eae5d81d2c0d90e986b9728b73e541}
+      \strng{authorfullhash}{f3eae5d81d2c0d90e986b9728b73e541}
+      \strng{editornamehash}{8ae9155b86ea0951380335fccf4a6046}
+      \strng{editorfullhash}{8ae9155b86ea0951380335fccf4a6046}
+      \field{sortinit}{O}
+      \field{sortinithash}{f5d80ef71b5b58852663ecfd775b175a}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Linguistic Anthropology: {{The}} Reader}
+      \field{title}{"{{The}} Father Knows Best": {{Dynamic}} in the Dinnertime Narratives}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{431\bibrangedash 449}
+      \range{pages}{19}
+      \verb{file}
+      \verb Ochs and Taylor - 2001 - The father knows best Dynamic in the dinnertime.pdf:/Users/irinawagner/Google Drive/Zotero/Ochs and Taylor - 2001 - The father knows best Dynamic in the dinnertime.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{oconnor1990}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c11cb088a0b81f58f5f2217a28d9877d}{%
+           family={O'Connor},
+           familyi={O\bibinitperiod},
+           given={Mary\bibnamedelima Catherine},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c11cb088a0b81f58f5f2217a28d9877d}
+      \strng{fullhash}{c11cb088a0b81f58f5f2217a28d9877d}
+      \strng{authornamehash}{c11cb088a0b81f58f5f2217a28d9877d}
+      \strng{authorfullhash}{c11cb088a0b81f58f5f2217a28d9877d}
+      \field{sortinit}{O}
+      \field{sortinithash}{f5d80ef71b5b58852663ecfd775b175a}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of American Linguistics}
+      \field{number}{3}
+      \field{title}{Third-Person Reference in {{Northern Pomo}} Conversation: {{The}} Indexing of Discourse Genre and Social Relations}
+      \field{volume}{56}
+      \field{year}{1990}
+      \field{dateera}{ce}
+      \field{pages}{377\bibrangedash 409}
+      \range{pages}{33}
+      \verb{file}
+      \verb O'Connor_1990_Third-Person Reference in Northern Pomo Conversation.pdf:/Users/irinawagner/Google Drive/Zotero/O'Connor_1990_Third-Person Reference in Northern Pomo Conversation.pdf:application/pdf
+      \endverb
+      \keyw{CA,native american,Northern Pomo,Person reference}
+    \endentry
+    \entry{sacks1979}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=a8da27aa0a164a6f21aa1480cceee482}{%
+           family={Sacks},
+           familyi={S\bibinitperiod},
+           given={Harvey},
+           giveni={H\bibinitperiod}}}%
+        {{uniquename=0,hash=599ca686b4e3588b741660375b780d74}{%
+           family={Schegloff},
+           familyi={S\bibinitperiod},
+           given={Emanuel\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=3f7a17de608ce10b1041c1c1c3f24d17}{%
+           family={Enfield},
+           familyi={E\bibinitperiod},
+           given={N.\bibnamedelimi J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=169095414fa7c41f11d56377f2b2b4fd}{%
+           family={Stivers},
+           familyi={S\bibinitperiod},
+           given={Tanya},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, New York, Melbourne, Madrid, Cape Town, Singapore, Sao Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{36237923657a45d536fb87dc1f578f2b}
+      \strng{fullhash}{36237923657a45d536fb87dc1f578f2b}
+      \strng{authornamehash}{36237923657a45d536fb87dc1f578f2b}
+      \strng{authorfullhash}{36237923657a45d536fb87dc1f578f2b}
+      \strng{editornamehash}{f3c9005b85fbcf92e163273bebf53ee5}
+      \strng{editorfullhash}{f3c9005b85fbcf92e163273bebf53ee5}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Person {{Reference}} in {{Interaction}}: {{Linguistic}}, {{Cultural}} and {{Social Perspectives}}}
+      \field{title}{Two Preferences in the Organization of Reference to Persons in Conversation and Their Interaction}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{23\bibrangedash 28}
+      \range{pages}{6}
+    \endentry
+    \entry{samuels2004}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1fc04bd05b7a9ebbd4db274a46f15d9d}{%
+           family={Samuels},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tucson}%
+      }
+      \list{publisher}{1}{%
+        {University of Arizona Press}%
+      }
+      \strng{namehash}{1fc04bd05b7a9ebbd4db274a46f15d9d}
+      \strng{fullhash}{1fc04bd05b7a9ebbd4db274a46f15d9d}
+      \strng{authornamehash}{1fc04bd05b7a9ebbd4db274a46f15d9d}
+      \strng{authorfullhash}{1fc04bd05b7a9ebbd4db274a46f15d9d}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-8165-2601-7 0-8165-2601-X}
+      \field{langid}{english}
+      \field{title}{Putting a Song on Top of It: {{Expression}} and Identity on the {{San Carlos Apache Reservation}}.}
+      \field{year}{2004}
+      \field{dateera}{ce}
+    \endentry
+    \entry{schegloff1996b}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=599ca686b4e3588b741660375b780d74}{%
+           family={Schegloff},
+           familyi={S\bibinitperiod},
+           given={Emanuel\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=35cd9e27f10743fcc9e5349de803578d}{%
+           family={Ochs},
+           familyi={O\bibinitperiod},
+           given={Elinor},
+           giveni={E\bibinitperiod}}}%
+        {{hash=599ca686b4e3588b741660375b780d74}{%
+           family={Schegloff},
+           familyi={S\bibinitperiod},
+           given={Emanuel\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=fe87ee47c1908a42926eeb9c7b52b6b4}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={Sandra\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{599ca686b4e3588b741660375b780d74}
+      \strng{fullhash}{599ca686b4e3588b741660375b780d74}
+      \strng{authornamehash}{599ca686b4e3588b741660375b780d74}
+      \strng{authorfullhash}{599ca686b4e3588b741660375b780d74}
+      \strng{editornamehash}{8b93028650209dff4acb54488d161bf4}
+      \strng{editorfullhash}{bde01be74d7c57de9de9d7ee98686b90}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Interaction and Grammar}
+      \field{isbn}{978-0-511-62087-4}
+      \field{title}{Turn Organization: {{One}} Intersection of Grammar and Interaction}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{pages}{52\bibrangedash 133}
+      \range{pages}{82}
+      \verb{file}
+      \verb Schegloff_1996_Turn organization.pdf:/Users/irinawagner/Google Drive/Zotero/Schegloff_1996_Turn organization.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{schegloff2007}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=599ca686b4e3588b741660375b780d74}{%
+           family={Schegloff},
+           familyi={S\bibinitperiod},
+           given={Emanuel\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{599ca686b4e3588b741660375b780d74}
+      \strng{fullhash}{599ca686b4e3588b741660375b780d74}
+      \strng{authornamehash}{599ca686b4e3588b741660375b780d74}
+      \strng{authorfullhash}{599ca686b4e3588b741660375b780d74}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Discourse Studies}
+      \field{number}{4}
+      \field{title}{Categories in Action: {{Person}}-Reference and Membership Categorization}
+      \field{volume}{9}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{433\bibrangedash 461}
+      \range{pages}{29}
+      \verb{file}
+      \verb Schegloff_2007_Categories in action.pdf:/Users/irinawagner/Google Drive/Zotero/Schegloff_2007_Categories in action.pdf:application/pdf
+      \endverb
+      \keyw{action,a variety of terms,CA,categorization,conversation,conversation-analytic work in the,description,domain,have figured in past,is devoted,issue of discourse studies,Membership categorization,Person reference,reference,referring,the most common among,to which this special}
+    \endentry
+    \entry{searle2011}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=dfb4557184741aa72672caad22c3555c}{%
+           family={Searle},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{dfb4557184741aa72672caad22c3555c}
+      \strng{fullhash}{dfb4557184741aa72672caad22c3555c}
+      \strng{authornamehash}{dfb4557184741aa72672caad22c3555c}
+      \strng{authorfullhash}{dfb4557184741aa72672caad22c3555c}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-521-09626-3 0-521-09626-X}
+      \field{langid}{english}
+      \field{title}{Speech Acts: {{An}} Essay in the Philosophy of Language}
+      \field{year}{2011}
+      \field{dateera}{ce}
+    \endentry
+    \entry{sidnell2008}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3187609e2e46793a20822f781cbe05bf}{%
+           family={Sidnell},
+           familyi={S\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{3187609e2e46793a20822f781cbe05bf}
+      \strng{fullhash}{3187609e2e46793a20822f781cbe05bf}
+      \strng{authornamehash}{3187609e2e46793a20822f781cbe05bf}
+      \strng{authorfullhash}{3187609e2e46793a20822f781cbe05bf}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This article discusses the history of relations between conversation analysis and linguistic anthropology within the broader field encompassing various approaches to language, interaction, and social life. It argues that although these relations have, at times, been fraught and marked by rather serious misconceptions of what conversation analysis is all about, there is still much to be gained from cooperation and scholarly exchange between these approaches. An illustration of this argument focuses on the organization of other-initiated repair in two Caribbean communities.}
+      \field{issn}{13606441}
+      \field{journaltitle}{Journal of Sociolinguistics}
+      \field{number}{4}
+      \field{title}{Alternate and Complementary Perspectives on Language and Social Life: {{The}} Organization of Repair in Two {{Caribbean}} Communities}
+      \field{volume}{12}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{477\bibrangedash 503}
+      \range{pages}{27}
+      \verb{file}
+      \verb Sidnell - 2008 - Alternate and complementary perspectives on langua.pdf:/Users/irinawagner/Google Drive/Zotero/Sidnell - 2008 - Alternate and complementary perspectives on langua.pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1111/j.1467-9841.2008.00377.x
+      \endverb
+      \keyw{caribbean,comparative studies,conversation analysis,linguistic anthropology,repair}
+    \endentry
+    \entry{silverstein2003}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bce9aa70790a4fe3a5f5562c53208ac8}{%
+           family={Silverstein},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \strng{fullhash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \strng{authornamehash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \strng{authorfullhash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language \& Communication}
+      \field{title}{Indexical Orders and the Dialectics of Sociolinguistic Life}
+      \field{volume}{23}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{pages}{193\bibrangedash 229}
+      \range{pages}{37}
+      \verb{file}
+      \verb Silverstein - 2003 - Indexical orders and the dialectics of sociolingui.pdf:/Users/irinawagner/Google Drive/Zotero/Silverstein - 2003 - Indexical orders and the dialectics of sociolingui.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{stivers2007}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=169095414fa7c41f11d56377f2b2b4fd}{%
+           family={Stivers},
+           familyi={S\bibinitperiod},
+           given={Tanya},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=3f7a17de608ce10b1041c1c1c3f24d17}{%
+           family={Enfield},
+           familyi={E\bibinitperiod},
+           given={N.\bibnamedelimi J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=169095414fa7c41f11d56377f2b2b4fd}{%
+           family={Stivers},
+           familyi={S\bibinitperiod},
+           given={Tanya},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, New York, Melbourne, Madrid, Cape Town, Singapore, Sao Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{169095414fa7c41f11d56377f2b2b4fd}
+      \strng{fullhash}{169095414fa7c41f11d56377f2b2b4fd}
+      \strng{authornamehash}{169095414fa7c41f11d56377f2b2b4fd}
+      \strng{authorfullhash}{169095414fa7c41f11d56377f2b2b4fd}
+      \strng{editornamehash}{f3c9005b85fbcf92e163273bebf53ee5}
+      \strng{editorfullhash}{f3c9005b85fbcf92e163273bebf53ee5}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Person {{Reference}} in {{Interaction}}: {{Linguistic}}, {{Cultural}} and {{Social Perspectives}}}
+      \field{title}{Alternative Recognitionals in Person Reference}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{73\bibrangedash 96}
+      \range{pages}{24}
+    \endentry
+    \entry{stivers2009}{article}{useprefix=true}
+      \name{author}{11}{}{%
+        {{uniquename=0,hash=169095414fa7c41f11d56377f2b2b4fd}{%
+           family={Stivers},
+           familyi={S\bibinitperiod},
+           given={Tanya},
+           giveni={T\bibinitperiod}}}%
+        {{uniquename=0,hash=ced89b50082290b805300a11d20c3ead}{%
+           family={Enfield},
+           familyi={E\bibinitperiod},
+           given={Nicholas\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{uniquename=0,hash=b813054095f6303db2d75a6ea9ffbbcb}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Penelope},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=1a56820ef68ff4ce0aa328df5dab3331}{%
+           family={Englert},
+           familyi={E\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=a66e0aadaa6ccb82372d88f59ff9f848}{%
+           family={Hayashi},
+           familyi={H\bibinitperiod},
+           given={Makoto},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=d6d218e31db85608e9c68fbb931264ce}{%
+           family={Heinemann},
+           familyi={H\bibinitperiod},
+           given={Trine},
+           giveni={T\bibinitperiod}}}%
+        {{uniquename=0,hash=db4708afe69ce8a1e9cf8ec5fa5f3a81}{%
+           family={Hoymann},
+           familyi={H\bibinitperiod},
+           given={Gertie},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=3e5c5f7ad6a3456884e68e18c3fdca74}{%
+           family={Rossano},
+           familyi={R\bibinitperiod},
+           given={Frederico},
+           giveni={F\bibinitperiod}}}%
+        {{uniquename=0,hash=31f0d0075c879b2992f2fb6b3fc23541}{%
+           family={Ruiter},
+           familyi={R\bibinitperiod},
+           given={Jan\bibnamedelima Peter},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{uniquename=0,hash=964bdf55bcabb52df69c76d16a4f4ecd}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Kyung-Eun},
+           giveni={K\bibinithyphendelim E\bibinitperiod}}}%
+        {{uniquename=0,hash=57662c093a2be4aa38c276d4e511b683}{%
+           family={Levinson},
+           familyi={L\bibinitperiod},
+           given={Stephen\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dfbe9222629e3129ad850f7a155296d}
+      \strng{fullhash}{bc0dc6db7616751b6cc776d281f251e4}
+      \strng{authornamehash}{4dfbe9222629e3129ad850f7a155296d}
+      \strng{authorfullhash}{bc0dc6db7616751b6cc776d281f251e4}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{26}
+      \field{shortjournal}{PNAS}
+      \field{title}{Universals and Cultural Variation in Turn-Taking in Conversations}
+      \field{volume}{106}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{10587\bibrangedash 10592}
+      \range{pages}{6}
+      \verb{file}
+      \verb Stivers et al. - 2009 - Universals and cultural variation in turn-taking i.pdf:/Users/irinawagner/Google Drive/Zotero/Stivers et al. - 2009 - Universals and cultural variation in turn-taking i.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{swales1990}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f52a7b4dcf563b25bd225f4a176b2606}{%
+           family={Swales},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge [England]; New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{f52a7b4dcf563b25bd225f4a176b2606}
+      \strng{fullhash}{f52a7b4dcf563b25bd225f4a176b2606}
+      \strng{authornamehash}{f52a7b4dcf563b25bd225f4a176b2606}
+      \strng{authorfullhash}{f52a7b4dcf563b25bd225f4a176b2606}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this book, John Swales provides a survey of approaches to varieties of language, and considers these in relation to communication and task-based language learning. He goes on to outline an approach to the analysis of genre, and then proceeds to consider examples of different genres and how they can be made accessible through genre analysis. --From publisher's description.}
+      \field{isbn}{0-521-32869-1 978-0-521-32869-2 0-521-33813-1 978-0-521-33813-4}
+      \field{langid}{english}
+      \field{title}{Genre Analysis: {{English}} in Academic and Research Settings}
+      \field{year}{1990}
+      \field{dateera}{ce}
+    \endentry
+    \entry{valentine1995}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d358cd3054debebfc4a41a819e9f5e2f}{%
+           family={Valentine},
+           familyi={V\bibinitperiod},
+           given={Lisa\bibnamedelima Philips},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Toronto}%
+      }
+      \list{publisher}{1}{%
+        {University of Toronto Press}%
+      }
+      \strng{namehash}{d358cd3054debebfc4a41a819e9f5e2f}
+      \strng{fullhash}{d358cd3054debebfc4a41a819e9f5e2f}
+      \strng{authornamehash}{d358cd3054debebfc4a41a819e9f5e2f}
+      \strng{authorfullhash}{d358cd3054debebfc4a41a819e9f5e2f}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-8020-7596-7 978-0-8020-7596-3}
+      \field{langid}{english}
+      \field{title}{Making It Their Own: {{Severn Ojibwe}} Communicative Practices}
+      \field{year}{1995}
+      \field{dateera}{ce}
+    \endentry
+    \entry{wortham2015}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=3d92c44a2a5067f38f9e1dab01ff417e}{%
+           family={Wortham},
+           familyi={W\bibinitperiod},
+           given={Stanton},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=d49b1809be2cfc80b12c4c0b3b61c5f9}{%
+           family={Rhodes},
+           familyi={R\bibinitperiod},
+           given={Catherine\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=0f2c5f87a3170a6bba54b1f15262974f}{%
+           family={De\bibnamedelima Fina},
+           familyi={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=77f697eea85a058b5fda6832b4ccbb6b}{%
+           family={Georgakopoulou},
+           familyi={G\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Malden, MA; Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Blackwell}%
+      }
+      \strng{namehash}{cb6607da6fb1c295bcf3b34abd72c570}
+      \strng{fullhash}{cb6607da6fb1c295bcf3b34abd72c570}
+      \strng{authornamehash}{cb6607da6fb1c295bcf3b34abd72c570}
+      \strng{authorfullhash}{cb6607da6fb1c295bcf3b34abd72c570}
+      \strng{editornamehash}{f81c717413cb33747aca529a234152cf}
+      \strng{editorfullhash}{f81c717413cb33747aca529a234152cf}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Handbook of Narrative Analysis}
+      \field{title}{Narratives across Speech Events}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{160\bibrangedash 177}
+      \range{pages}{18}
+    \endentry
+  \endsortlist
+  \missing{schegloff1996}
+\endrefsection
+\endinput
+
